@@ -1,1 +1,5061 @@
-404: Not Found
+Resilience Theory: 
+
+A Literature Review 
+
+with special chapters on 
+
+deployment resilience in military families 
+
+& resilience theory in social work 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+by 
+
+Adrian DuPlessis VanBreda 
+
+October 2001 
+
+RESILIENCE THEORY: A LITERATURE REVIEW 
+
+Institution:  South African Military Health Service, Military Psychological Institute, 
+
+Social Work Research & Development 
+
+ 
+
+Author: 
+
+Adrian DuPlessis VanBreda 
+
+Title:   
+
+Resilience Theory: A Literature Review 
+
+Date:   
+
+October 2001 
+
+Report No:  MPI/R/104/12/1/4, dd October 2001 
+
+City: 
+
+Pretoria, South Africa 
+
+E-mail: 
+
+Adrian@vanbreda.org 
+
+Address: 
+
+Major A.D. Van Breda 
+
+Military Psychological Institute 
+
+Private Bag X02 
+
+Gezina 
+
+0031 
+
+South Africa 
+
+Resilience Theory: A Literature Review  
+ 
+
+Page i 
+
+CHAPTER TWO: INDIVIDUAL RESILIENCE 
+
+ 
+
+2.1  INTRODUCTION TO INDIVIDUAL RESILIENCE 
+
+Resilience is the capacity to maintain competent functioning in the face of major life 
+stressors.  (Kaplan, Turner, Norman, & Stillson, 1996, p. 158) 
+
+George  Vaillant  (1993)  defines  resilience  as  the  “self-righting  tendencies”  of  the 
+person, “both the capacity to be bent without breaking and the capacity, once bent, 
+to spring back” (p. 248).  (Goldstein, 1997, p. 30) 
+
+Resilience  means  the  skills,  abilities,  knowledge,  and  insight  that  accumulate  over 
+time as people struggle to surmount adversity and meet challenges.  It is an ongoing 
+and  developing  fund  of  energy  and  skill  that  can  be  used  in  current  struggles.  
+(Garmezy, 1994 in Saleebey, 1996, p. 298)  
+
+[Resilience  is]  the  capacity  for  successful  adaptation,  positive  functioning  or 
+competence  …  despite  high-risk  status,  chronic  stress,  or  following  prolonged  or 
+severe trauma.  (Egeland, Carlson, & Sroufe, 1993, in Sonn & Fisher, 1998, p. 458) 
+
+Resilience is primarily defined in terms of the “presence of protective factors (personal, 
+
+social, familial, and institutional safety nets)” which enable individuals to resist life stress 
+
+(Kaplan  et  al.,  1996,  p.  158).    An  important  component  of  resilience,  however,  is  the 
+
+hazardous,  adverse  and  threatening  life  circumstances  that  result  in  individual 
+
+vulnerability (ibid.).  An individual’s resilience at any moment is calculated by the ratio 
+
+between  the  presence  of  protective 
+
+factors  and  the  presence  of  hazardous 
+
+circumstances. 
+
+literature: 
+
+Polk  (1997)  has  synthesised  four  patterns  of  resilience  from  the  individual  resilience 
+
+(cid:153) Dispositional Pattern.  The dispositional pattern relates to physical and ego-related 
+
+psychosocial  attributes  that  promote  resilience.    These  entail  those  aspects  of  an 
+
+individual that promote a resilient disposition towards life stressors, and can include 
+
+a  sense  of  autonomy  or  self-reliance,  a  sense  of  basic  self-worth,  good  physical 
+
+health and good physical appearance. 
+
+(cid:153) Relational Pattern.  The relational pattern concerns an individual’s roles in society 
+
+and his/her relationships with others.  These roles and relationships can range from 
+
+close and intimate relationships to those with the broader societal system. 
+
+Resilience Theory: A Literature Review  
+ 
+
+Page 5 
+
+(cid:153) Situational  Pattern.    The  situational  pattern  addresses  those  aspects  involving  a 
+
+linking  between  an  individual  and  a  stressful  situation.    This  can  include  an 
+
+individual’s problem solving ability, the ability to evaluate situations and responses, 
+
+and the capacity to take action in response to a situation. 
+
+(cid:153) Philosophical Pattern.  The philosophical pattern refers to an individual’s worldview 
+
+or life paradigm.  This can include various beliefs that promote resilience, such as the 
+
+belief  that  positive  meaning  can  be  found  in  all  experiences,  the  belief  that  self-
+
+development is important, the belief that life is purposeful. 
+
+Barnard  (1994,  pp.  139-140)  identified  nine  individual  phenomena  that  the  literature 
+
+repeatedly has shown to correlate with resiliency: 
+
+(cid:153) “Being perceived as more cuddly and affectionate in infancy and beyond. 
+
+(cid:153) “Having no sibling born within 20-24 months of one’s own birth. 
+
+(cid:153) “A higher level of intelligence. 
+
+(cid:153) “Capacity and skills for developing intimate relationships. 
+
+(cid:153) “Achievement orientation in and outside of school. 
+
+(cid:153) “The  capacity  to  construct  productive  meanings  for  events  in  their  world  that 
+
+enhances their understanding of these events. 
+
+(cid:153) “Being able to selectively disengage from the home and engage with those outside, 
+
+and then to reengage. 
+
+(cid:153) “Being internally oriented and having an internal locus of control. 
+
+(cid:153) “The absence of serious illness during adolescence.” 
+
+The  capacity  of  an  individual  to  cope  during  difficulty  is  central  to  their  resilience.  
+
+Pearlin and Schooler (1982, p. 109) define coping as “the thing that people do to avoid 
+
+being harmed by lifestrain.”  These authors conducted 2300 interviews in the urbanized 
+
+Chicago  area  and  through  content  analysis  of  these  interviews  identified  three  main 
+
+types of coping that serve distinct functions, viz: 
+
+(cid:153) “Responses  that  change  the  situation  out  of  which  strainful  experience 
+
+arises” (Pearlin & Schooler, 1982, p. 115).  Interestingly, their research found that 
+
+this type of coping was not widely used.  Several reasons are offered to explain this.  
+Page 6 
+
+Resilience Theory: A Literature Review  
+ 
+
+People  must  first  recognize  the  situation  which  is  causing  the  stress;  something 
+
+which  is  not  always  possible.    People  may  not  know  how  to  change  the  situation 
+
+directly.    Acting  on  a  situation  to  change  it  may  result  in  even  further  stressors, 
+
+which  in  turn  inhibits  further  action.    Some  situations  are  not  amenable  to  change 
+
+efforts. 
+
+(cid:153) It  is  interesting  to  note  that  much  of  resilience  theory  and  research  has  revolved 
+
+around  situations  which  are  impervious  to  change  efforts,  such  as  being  in  a 
+
+concentration camp, having a terminal illness, being in a war, growing up in poverty, 
+
+etc.    In  such  circumstances,  little  can  be  done  to  directly  change  the  situation 
+
+causing the stress.  Rather, other forms of coping are required. 
+
+(cid:153) “Responses  that  control  the  meaning  of  the  strainful  experience  after  it 
+
+occurs but before the emergence of stress” (Pearlin & Schooler, 1982, p. 115).  
+
+Pearlin and Schooler found this to be the most common coping type.  This coping can 
+
+entail  making  positive  comparisons  which  reduce  the  perceived  severity  of  the 
+
+stressful situation, selectively ignoring parts of the situation so as to concentrate on 
+
+some  less  stressful  aspect  of  the  situation,  and  reducing  the  relative  importance  of 
+
+the stress situation in relation to one’s overall life situation. 
+
+(cid:153) “Responses that function more for the control of the stress itself after it has 
+
+emerged” (Pearlin & Schooler, 1982, p. 115).  This coping type does not attack the 
+
+situation itself, either directly or through meaning or perception.  Rather, the focus of 
+
+the  coping  is  on  the  resultant  stress  itself  and  entails  basic  stress  management 
+
+responses.  “Out of the beliefs and values in the culture people are able to create a 
+
+strategy  for  manageable  suffering,  a  strategy  that  can  convert  the  endurance  of 
+
+unavoidable hardships into a moral virtue” (ibid., p. 117). 
+
+An  intervention  was  conducted  in  an  occupational  setting  to  enhance  the  coping  of 
+
+employed  mothers (Kline & Snow, 1994).  The group-based intervention was based on 
+
+Pearlin  and  Schooler’s  “model  of  coping  and  adaptive  behavior:  attacking  the  problem, 
+
+rethinking the problem, and managing the stress” (ibid., p. 109).  In comparison with a 
+
+control  group,  “at  6-month  follow-up,  intervention  participants  reported  significantly 
+
+lower  work-family  and  work  environment  stress,  higher  social  support  from  work 
+
+sources, less avoidance coping, and lower psychological symptomatology” (ibid., p. 105). 
+
+This intervention demonstrates the practical and clinical value of resilience theories.  By 
+
+promoting  positive,  constructive  coping  skills,  the  investigators  were  able  to  make 
+
+significant changes to the problems experienced by the participants, even though these 
+Page 7 
+
+Resilience Theory: A Literature Review  
+ 
+
+problems were not specifically addressed.  Furthermore, the intervention operationalises 
+
+the  theory  of  coping  developed  by  Pearlin  and  Schooler  (1982),  creating  the  links 
+
+between theory, practice and research. 
+
+The  individual  approach  to  resilience  has tended  to  emphasise  resilience  as  an internal 
+
+phenomenon,  an  emphasis  that  is  only  challenged  later,  and  with  difficulty,  by  family 
+
+resilience  researchers.    Walsh  (1996,  pp.  262-263),  for  example,  states,  “Resilience  is 
+
+commonly thought of as inborn, as if resilient persons grew themselves up: either they 
+
+had the ‘right stuff’ all along – a biological hardiness – or they acquired it by their own 
+
+initiative  and  good  fortune.”    Similarly,  Goldstein  (1997,  p.  32)  states,  “Jordan  gives 
+
+greatest  weight  to  resilience  as  a  state  of  mind.    This  means  that  basic  principles  of 
+
+helping  begin  with  a  primary  focus  on  –  or  better,  a  commitment  to  –  how  clients 
+
+perceive  their  world.”    This  perspective  will  be  apparent  throughout  this  section  on 
+
+individual resilience.  Indeed, a great contribution of resilience theory has been to help 
+
+us  understand  how  an  individual’s  perspective  on  life  difficulties  fundamentally  affects 
+
+the individual’s experience of and response to the difficulty. 
+
+Individual  resilience  theory  began  with  studies  of  children  who  rose  above  adverse 
+
+childhood  conditions.    This  research  highlighted  factors  and  models  to  explain  how 
+
+children develop resilience.  Antonovsky’s salutogenic theory addressed the question of 
+
+health  in  adults.    Various  other  models  have  been  advanced  over  the  years  to  explain 
+
+how  people  stay  healthy  and  happy,  even  in  difficult  times.    These  themes  will  be 
+
+addressed in the following sections. 
+
+ 
+
+2.2  RESILIENCE IN CHILDREN 
+
+Longitudinal studies on children who were born into adverse conditions have formed the 
+
+foundation  of  much  of  our  current  understanding  of  resiliency  in  adults  and  families.  
+
+These studies tracked children who, according to various indicators, were considered to 
+
+be  children  at  risk.    Over  a  number  of  decades,  researchers  have  become  increasingly 
+
+able to identify those features that are associated with the children who rose above their 
+
+circumstances. 
+
+Werner and Smith’s (1992) study in Kauai, Hawaii, which began in 1955, is probably the 
+
+most  well  known  study  of  this  nature.    By  age  18,  one  third  of  the  participants,  who 
+
+were  assessed  at  birth  to  be  ‘at  risk,’  had  developed  into  “competent  and  confident 
+
+young  adults”  (Saleebey,  1996,  p.  299).    By  age  32,  two  thirds  of  the  remaining 
+Page 8 
+Resilience Theory: A Literature Review  
+ 
+
+participants “had turned into caring and efficacious adults” (ibid., p. 300).  This research 
+
+demonstrates  firstly  that  certain  factors  protect  vulnerable  children  from  dysfunction, 
+
+and  secondly  that  a  vulnerable  person’s  life  course  can  change  at  any  time  and  is  not 
+
+completely determined in early childhood (ibid.). 
+
+Cederblad and her colleagues (Cederblad, Dahlin, Hagnell, & Hansson, 1994) conducted 
+
+a  similar  study  in  Sweden,  starting  in  1947.    Children  who  were  exposed  to  three  or 
+
+more  factors  that  are  associated  with  later  mental  illness  were  included  in  the  study 
+
+(Dahlin,  Cederblad,  Antonovsky,  &  Hagnell,  1990,  p.  229).    A  follow-up  of  these 
+
+participants  in  1988,  when  they  were  in  their  40’s  and  50’s  indicated  that “almost  half 
+
+the  sample  succeeded  in  creating  a  reasonably  successful  and  at  least  moderately 
+
+healthy life despite the severe handicaps in their childhoods! … It can be argued that at 
+
+least  half  the  sample  has  manifested  considerable  resilience”  (Dahlin  et  al.,  1990,  p. 
+
+231). 
+
+Research  such  as  this  has  challenged  three  intransigent  ideas  that  have  been  and 
+
+probably still are prevalent in social work and psychology: 
+
+(cid:153) “There are fixed, inevitable, critical, and universal stages of development; 
+
+(cid:153) “Childhood trauma inevitably leads to adult psychopathology…; and 
+
+(cid:153) “There  are  social  conditions, 
+
+interpersonal 
+
+relationships,  and 
+
+institutional 
+
+arrangements that are so toxic they inevitably lead to decrements or problems in the 
+
+everyday  functioning  of  children  and  adults,  families,  and  communities”  (Saleebey, 
+
+1996, p. 299). 
+
+Beliefs such as these, which are indicative of pathogenic thinking, are shattered by the 
+
+discovery that the majority (around 50%) of children who should not develop into well-
+
+adjusted  adults  do  in  fact  just  that.    While  it  is  true  that  childhood  adversity  does 
+
+increase  the  likelihood  of  psychopathology  in  later  life  (Cederblad,  Dahlin,  Hagnell,  & 
+
+Hansson,  1995,  p.  322),  this  adversity  is  also  moderated  by  a  set  of  identifiable 
+
+protective  factors,  such  as  “a  high  sense  of  coherence,  high  mastery,  [and]  an  inner 
+
+locus of control” (ibid.). 
+
+Children who are able to overcome these odds are called resilient.  “Resiliency in children 
+
+is the capacity of those of who are exposed to identifiable risk factors to overcome those 
+
+risks  and  avoid  negative  outcomes  such  as  delinquency  and  behavioral  problems, 
+
+psychological  maladjustment,  academic  difficulties,  and  physical  complications”  (Rak  & 
+
+Patterson, 1996, p. 368). 
+Resilience Theory: A Literature Review  
+ 
+
+Page 9 
+
+Research has shown that the following factors are present in resilient children (Benard & 
+
+Marshall, 1997; Bogenschneider, 1996; Butler, 1997; Cederblad et al., 1994; Hawley & 
+
+De  Haan,  1996;  Parker,  Cowen,  Work,  &  Wyman,  1990;  Rutter,  1979;  Werner,  1984, 
+
+1990): 
+
+(cid:153) They  had  an  outgoing,  socially  open,  cooperative,  engaging,  likeable  personality.  
+
+They  were  able,  from  infancy  on,  to  gain  other  people’s  positive  attention.    Their 
+
+behaviour was open, kind and calm. 
+
+(cid:153) The children had good early bonding with their mothers or some other caregiver (eg 
+
+a grandmother, older sister or another relative). 
+
+(cid:153) They  had  a  variety  of  alternative  caregivers  who  played  important  roles  as  positive 
+
+identification models. 
+
+(cid:153) Their mothers had steady employment outside the home. 
+
+(cid:153) They  were  required  to  participate  in  household  chores  and  activities,  ie  ‘required 
+
+helpfulness’. 
+
+(cid:153) There were clearly defined boundaries between subsystems within the family. 
+
+(cid:153) They weren’t colicky. 
+
+(cid:153) They were active, cuddly and good-natured. 
+
+(cid:153) They had at least average intelligence. 
+
+(cid:153) They were more likely to be girls. 
+
+life. 
+
+(cid:153) They were more likely to be the oldest child. 
+
+(cid:153) They experienced no separations from their primary caregiver during the first year of 
+
+(cid:153) They did not have another sibling born before they turned two. 
+
+(cid:153) They  attended  good  schools  that  set  appropriately  high  standards,  that  provided 
+
+teacher  feedback  to  students,  that  praised  students  for  good  work,  that  gave 
+
+students positions of trust and responsibility, that provided extramural activities, and 
+
+where teachers were good behaviour models. 
+
+Resilience Theory: A Literature Review  
+ 
+
+Page 10 
+
+(cid:153) They had a high self-esteem. 
+
+(cid:153) They had strict parental supervision. 
+
+(cid:153) They  had  good  positive  coping  skills.    They  had  an  active,  evocative  approach 
+
+towards solving life’s problems, enabling them to negotiate successfully emotionally 
+
+hazardous  experiences.    They  had  flexible  coping  skills  that  could  respond  to  the 
+
+changing environment and their own changing development. 
+
+(cid:153) They perceived themselves to be competent. 
+
+(cid:153) They  tended  to  perceive  their  experiences  constructively,  even  if  the  experiences 
+
+caused pain or suffering. 
+
+(cid:153) They had better interpersonal skills. 
+
+(cid:153) They had an internal locus of control. 
+
+(cid:153) They had good impulse control. 
+
+(cid:153) They had high energy and were active. 
+
+(cid:153) They enjoyed school. 
+
+despite unfavourable odds. 
+
+(cid:153) They were autonomous and independent. 
+
+(cid:153) They had special interests and hobbies. 
+
+(cid:153) They had a strong ability to use faith to maintain a positive view of a meaningful life.  
+
+Their  faith  provided  them  with  a  sense  of  rootedness  and  coherence,  a  conviction 
+
+that  their  lives  had  meaning  and  a  belief  that  things  would  work  out  in  the  end 
+
+(cid:153) They were able to ask for support when they needed it. 
+
+Clearly,  children  are  not  defenceless  against  stressful  life  conditions.    There  are  many 
+
+factors  which  can  assist  to  ‘buffer’  (Rutter,  1985)  children  against  stress,  and  which 
+
+assist  them  in  growing  up  to  be  well-adjusted  and  happy  adults,  who  work  well,  play 
+
+well, love well and expect well (Werner in Dahlin et al., 1990, p. 228).  These resilience 
+
+studies stand in contrast to “the overwhelming bulk of developmental research [which] 
+
+has  been  devoted  to  exploring  the  pathogenic  hypothesis,  ie  that  risk  factors  in  the 
+
+Resilience Theory: A Literature Review  
+ 
+
+Page 11 
+
+perinatal  period,  infancy  and  early  childhood  are  predictive  of  disturbances  in  later 
+
+childhood and adulthood” (ibid.). 
+
+The theory that has most strongly drawn together studies such as those described so far 
+
+is the theory of salutogenesis, developed by Antonovsky. 
+
+2.3  SALUTOGENESIS 
+
+Aaron  Antonovsky,  a  medical  sociologist,  coined  the  term  ‘salutogenesis’  in  1978 
+
+(Antonovsky,  1998a,  p.  5).    Salutogenesis  “emphasizes  the  origins  of  health,  or 
+
+wellness,  [and  comes  from  the  Latin]:  salus  =  health,  Greek:  genesis  =  origins” 
+
+(Strümpfer,  1990,  p.  263).    Literally  translated  salutogenesis  means  the  ‘origins  of 
+
+health’.  Salutogenesis offers a paradigm for thinking about resilience, illness and health, 
+
+that stands in contrast to the dominant pathogenic paradigm. 
+
+ 
+
+ 
+
+2.3.1 
+
+PATHOGENESIS 
+
+Pathogenesis, the ‘origins of disease’, has been and largely continues to be the dominant 
+
+model  of  health  and  medicine.    According  to  the  pathogenic  paradigm,  “people  remain 
+
+healthy unless some special bug or combination of bugs ‘is caught’” (Antonovsky, 1998a, 
+
+p. 5).  Pathogenic research and practice is aimed at determining why people become sick 
+
+and  why  certain  people  develop  particular  diseases  (Strümpfer,  1990).    Pathogenesis 
+
+assumes that people normally function in a state of homeostasis and order (Antonovsky, 
+
+1984),  “which  may  vary  somewhat  but  is  maintained  by  various  complexly  interacting 
+
+regulatory  mechanisms”  (Strümpfer,  1990,  p.  264).    When  these  mechanisms  are 
+
+inadequate  to  resist  the  attacks  of  “microbiological,  physical,  chemical,  and/or 
+
+psychosocial stressors, vectors or agents”, disease results (Antonovsky, 1984, p. 114).  
+
+Consequently, these ‘bugs’, be they germs, chemicals or psychosocial stressors, must be 
+
+‘bad’ and should be eradicated or avoided. 
+
+The  central  pathogenic  question  is,  “How  do  stressors  eventuate  in  undesirable  illness 
+
+outcomes?”  (Antonovsky  &  Bernstein,  1986,  p.  53).    In  pathogenic  research,  the 
+
+outcome variable is always illness of some kind.  “Mediating or coping variables” may be 
+
+introduced  as  illness  “buffers”,  increasing  the  validity  of  the  study,  but  the  outcome 
+
+variable is always illness (ibid.). 
+
+Resilience Theory: A Literature Review  
+ 
+
+Page 12 
+
+The  pathogenic  paradigm  has  had  six  primary  consequences  for  research  and  clinical 
+
+practice (Antonovsky, 1984): 
+
+(cid:153) Health  versus  Disease.    “We  have  come  to  think  dichotomously  about  people, 
+
+classifying  them  as  either  healthy  or  diseased”  (Antonovsky,  1984,  p.  115).    The 
+
+majority  of  people  are  assumed  to  be  in  the  healthy  category,  and  a  minority  of 
+
+people,  the  “deviants”  or  “abnormals”,  are  in  the  diseased  category  (Antonovsky, 
+
+1979, p. 48). 
+
+(cid:153) Specific Focus on Pathogen.  “Thinking pathogenically, we have almost inevitably 
+
+taken as our focus of concern a specific pathologic entity: heart disease, or cancer, or 
+
+schizophrenia”  (Antonovsky,  1984,  p.  115).    The  researcher  or  practitioner  focuses 
+
+exclusively  on  that  disease  and  only  that  disease  (Antonovsky  &  Bernstein,  1986).  
+
+Only  phenomena  that  are  thought  to  contribute  directly  to  that  disease  are 
+
+considered.  Other phenomena, which may be common to various diseases, either as 
+
+causes or solutions, tend to be ignored due to the high level of specialisation of the 
+
+practitioner (Antonovsky, 1984). 
+
+(cid:153) Disease Causation.  “The pathogenic paradigm has constrained us to search for the 
+
+cause  or,  if  enlightened  by  the  concept  of  multifactorial  causation,  the  causes  of 
+
+disease  X”  (Antonovsky,  1984,  p.  115).    Since  the  pathogenic  paradigm  assumes 
+
+that  people  function  in  a  state  of  homeostasis,  it  comes  as  a  surprise  to  find 
+
+pathogens and all energy is devoted to the study of these pathogens.  Practitioners 
+
+who  think  pathogenically  are  unaware  that  stress  and  pathogens  are  ubiquitous.  
+
+Consequently, they focus on how these stressors function, rather than on how people 
+
+cope  with  them.    Stated  differently,  “When  one’s  focus  is  on  an  undesirable 
+
+dependent  variable,  one’s  thinking  tends  to  be  oriented  to  studying  undesirable 
+
+independent variables” (Antonovsky & Bernstein, 1986, p. 64). 
+
+(cid:153) Stressors  are  Bad.    “Stressors,  by  definition,  are  viewed  as  pathogenic” 
+
+(Antonovsky & Bernstein, 1986, p. 64).  The goal of pathogenically oriented practice 
+
+is  to  eradicate  all  stressors,  since  stress  is  believed  to  inevitably  lead  to  disease.  
+
+“Our goal has become the creation of a sterile environment,” free of all stressors and 
+
+pathogens (Antonovsky, 1984, p. 115). 
+
+(cid:153) Illusion of Health.   “The  pathogenic paradigm underlies the ambience that Dubos 
+
+(1960) has so cogently warned against, ‘the mirage of health’” (Antonovsky, 1984, p. 
+
+115).    Wars  are  waged  against  various  diseases,  with  the  assurances  that  the 
+
+diseases can and have been conquered.  This results in a false belief that disease and 
+Page 13 
+
+Resilience Theory: A Literature Review  
+ 
+
+its  biological  causes  can  be  eradicated.    The  behavioural  components  involved  in 
+
+disease  prevention  and  health  promotion  are  of  little  consideration  and  receive 
+
+minimal  funding.    Nevertheless,  despite  enormous  efforts  to  eradicate  disease, 
+
+unhealth remains. 
+
+(cid:153) Group Statistics.  “Pathogenesis has given overwhelming priority to the case or, in 
+
+considering  prevention,  to  the  high-risk  group.  It  tends  to 
+
+ignore  what 
+
+methodologists  call  deviant  cases”  (Antonovsky,  1984,  p.  116).    Researchers’ 
+
+emphasis on group statistics results in satisfaction once “we have established that we 
+
+can account for so and so much of the variance”, even though only a portion of the 
+
+variance  is  actually  explained  (Antonovsky  &  Bernstein,  1986,  p.  65).    Group 
+
+statistics  prevent  an  examination  of  the  “successful  coper”  or  “deviant  case”  who, 
+
+despite the prediction of disease, resists disease.  “Children of schizophrenic parents 
+
+who do not become schizophrenic do not interest us, because we are tuned in to the 
+
+specific disease.  They may all have been killed in traffic accidents, but that is not our 
+
+turf.    Because  we  do  not  study  the  deviants,  however,  we  generate  neither 
+
+hypotheses nor methodologies to help us understand the full gamut of human health” 
+
+(Antonovsky, 1984, p. 116). 
+
+ 
+
+2.3.2 
+
+THE SALUTOGENIC QUESTION 
+
+“Salutogenesis makes a fundamentally different philosophical assertion about the world 
+
+than does pathogenesis” (Antonovsky, 1998a, p. 5).  Salutogenesis asks a question that 
+
+is  unheard of  in  pathogenic  circles.    In  a  1971  study  on  concentration  camp  survivors, 
+
+Antonovsky and his colleagues (cited in Antonovsky & Bernstein, 1986) write: 
+
+Our  data  are  very  consistent  in  showing  that  middle-aged  Israeli  women  of  central 
+European origin who were concentration camp survivors are, as a group, more poorly 
+adapted … than are the women in a control group. …  What is, however, of greater 
+fascination and of human and scientific import … is the fact that a not-inconsiderable 
+number  of  concentration  camp  survivors were  found  to  be  well-adapted.    …   What, 
+we  must  ask,  has  given  these  women  the  strength,  despite  their  experience,  to 
+maintain what would seem to be the capacity not only to function well, but even to 
+be happy [italics added].  (p. 52) 
+
+Where the pathogenic paradigm asks, “Why do people get ill?” the salutogenic paradigm 
+
+asks, “Why, when people are exposed to the same stress which causes some to become 
+
+ill, do some remain healthy?”  (see Antonovsky, 1979, p. 56; Antonovsky, 1984, p. 117; 
+
+Strümpfer, 1990, p. 267) 
+
+Resilience Theory: A Literature Review  
+ 
+
+Page 14 
+
+The salutogenic paradigm has six primary consequences for research and clinical practice 
+
+(Antonovsky, 1984): 
+
+(cid:153) Health  as  a  Continuum.    “Salutogenesis  open  the  way  for  a  continuum 
+
+conceptualization of what I have called health ease-dis-ease” (Antonovsky, 1984, p. 
+
+116).    Rather  than  categorising  people  as either  healthy  or  diseased,  salutogenesis 
+
+posits  that  people  fall  on  a  continuum  somewhere  between  these  two  poles,  which 
+
+can be termed ease and dis-ease.  Although people towards the dis-ease end of the 
+
+continuum  will  require  more  intensive  biopsychosocial  intervention,  the  salutogenic 
+
+questions  asks,  “Why  does  this  person  –  wherever  he  or  she  is  located  on  the 
+
+continuum – move toward the healthy pole?” (Antonovsky, 1984) 
+
+(cid:153) Broad  Focus  on  Health.    We  no  longer  focus  exclusively  on  one  or  other  specific 
+
+disease  entity.    Rather,  the  salutogenic  paradigm  requires  researchers  and 
+
+practitioners to focus broadly on a variety of general factors that promote movement 
+
+towards  health,  irrespective  of  the  specific  dis-ease  being  experienced  by  an 
+
+individual (Antonovsky, 1984). 
+
+(cid:153) Health  Causation.    In  contrast  with  the  emphasis  on  how  specific  diseases  are 
+
+caused,  salutogenesis  focuses  on  the  causes  or  origins  of  wellness  (Antonovsky, 
+
+1984): 
+
+Assuming  that  stressors  are  ubiquitous,  we  turn  our  attention  away  from  the 
+potential pathogen and from the specific answer to a given pathogen and become 
+concerned,  in  research  and  in  practice,  with  the  resources  that  are  valuable  in 
+coping with a wide range of pathogens and stressors.  (p. 116) 
+
+(cid:153) “Only  by  focusing  on  health  can  we  make  advances  in  developing  a  broad-range 
+
+theory of successful coping that derives from familiarity with a wide range of studies 
+
+on different diseases and health outcomes” (Antonovsky & Bernstein, 1986, p. 64). 
+
+(cid:153) Stressors  can  be  Good.    Stress,  while  undeniably  having  some  negative 
+
+consequences, can also have salutary consequences: “A stressor may be a challenge, 
+
+giving  rise  to  successful  coping  precisely  because  it  makes  unanticipated  demands” 
+
+(Antonovsky & Bernstein, 1986, p. 64).  Stress is part of our human existence and 
+
+must be dealt accordingly (Antonovsky, 1984): 
+
+We avoid hysteria about stressors and the gimmicks and instant cures that often 
+accompany such hysteria.  The question becomes not “How can we eradicate this 
+or that stressor?” but “How can we learn to live, and live well, with stressors, and 
+possibly even turn their existence to our advantage?”  (p. 116)  
+
+Resilience Theory: A Literature Review  
+ 
+
+Page 15 
+
+(cid:153) Struggle  for  Adaptation.    “Recognition  of  the  limited  utility  of  wars  against 
+
+diseases  X,  Y,  and  Z,  of  the  search  for  utopia,  leads  us  to  focus  on  the  overall 
+
+problem  of  adaptation,  of  the  perpetual  struggle  for  sources  of  adaptation” 
+
+(Antonovsky, 1984, p. 117).  This raises the study of health and the clinical practice 
+
+of  development  and  growth  to  the  same  status  as  the  study  of  disease  and  the 
+
+practice of disease prevention.  The combination of these two forces will assist in the 
+
+movement towards the health end of the ease-dis-ease continuum. 
+
+(cid:153) Deviant Cases.  “The salutogenic paradigm continually focuses on the deviants, on 
+
+those who make it against the high odds that human existence poses.  It posits that 
+
+we  all,  by  virtue  of  being  human,  are  in  a  high-risk  group”  (Antonovsky,  1984,  p. 
+
+117).  By studying these few deviant cases (although in some instances they may be 
+
+in  the  majority),  which  pathogenic  research  overlooks,  we  all  learn  how  to  become 
+
+more resilient. 
+
+Antonovsky and Bernstein (1986) are, however, quick to point out that the salutogenic 
+
+paradigm is not intended to replace the pathogenic one: 
+
+A friend once remarked, “When I have cancer, I want to be treated for cancer, not 
+for  the  sense  of  coherence.”    Our  thesis  is  that  she  should  also  be  treated  for  the 
+sense  of  coherence  –  or  whatever  salutogenic  variable  turns  out  to  be  a  powerful 
+predictor of health.  Nor is it enough to ask, “Who doesn’t get disease X?”  For, as we 
+have  noted,  one  may  get  disease  Y,  which  may  be  as  serious  as  disease  X.    The 
+salutogenic  alternative  is  intended  to  add  the  study  of  health  to  the  study  of 
+diseases.  (p. 64) 
+
+Antonovsky’s  work  focused  specifically  on  the  issue  of  physical  health  (Antonovsky, 
+
+1979): 
+
+My point is that by defining health as coextensive with the many other dimensions of 
+well-being, one makes the concept of health meaningless an impossible to study.  It 
+is,  of  course,  folly  to  deny  the  interaction  between  health  well-being  and  other 
+dimensions.  …  But the nature of this relationship is one that must be subjected to 
+theoretical  clarification  and  empirical  investigation.    Health  well-being  must  be 
+measured separately.  (p. 68) 
+
+Yet  despite  such  assertions,  in  the  same  book  he  adopts  Dubos’  definition  of  health 
+
+(Antonovsky,  1979,  p.  53),  “A  modus  vivendi  enabling  imperfect  men  to  achieve  a 
+
+rewarding and not too painful existence while they cope with an imperfect world.”   
+
+Strümpfer  (1995,  p.  81)  notes  “that  Antonovsky  struggled  with  a  much  more 
+
+encompassing  problem  [than  merely  physical  health],  namely  that  of  the  sources  of 
+
+strength  in  general.”    In  response  to  this,  Strümpfer  proposes  the  term  ‘fortigenesis’ 
+
+(ibid.): 
+
+Resilience Theory: A Literature Review  
+ 
+
+Page 16 
+
+The term “fortigenesis”, from Latin: fortis (= strong), seems to be more descriptive 
+of  the  paradigm  than  the  term  ‘salutogenesis’.    The  English  words,  fortify  (=  to 
+impart physical strength, vigour or endurance, or to strengthen mentally or morally), 
+fort (= a fortified place), and fortitude (= strength and courage in adversity or pain), 
+all have the same root.  Introducing the construct is not to deny the need to search 
+for  the  origins  of  health;  it  is  merely  to  say  that,  in  the  process  of  doing  so, 
+Antonovsky  could  not  help  but  point  to  the  closely  related  origins  of  the  strength 
+needed  to  be  effective  at  other  end-points  of  human  functioning  too.    This  total 
+endeavour should be acknowledged: “fortigenesis” is more embracing, more holistic, 
+than “salutogenesis”.  (p. 82) 
+
+Owing  to  the  long  history  of  the  term  ‘salutogenesis’  and  in  light  of  the  broad  way  in 
+
+which  the  term  has  been  used  by  psychologists,  medical  practitioners,  nurses, 
+
+educationalists  and  social  workers,  I  have  opted  to  retain  the  term  ‘salutogenesis’.  
+
+Despite  both  Antonovsky’s 
+
+reservations  and  Strümpfer’s  astute  observations, 
+
+‘salutogenesis’ has come to mean the ‘origins of health’, where health is broadly defined 
+
+as  “a  state  of  complete  physical,  mental,  and  social  well-being  and  not  merely  the 
+
+absence of disease or infirmity” (World Health Organization, cited in Antonovsky, 1979, 
+
+p. 52). 
+
+ 
+
+2.3.3 
+
+THE SALUTOGENIC MODEL OF HEALTH 
+
+Antonovsky’s studies concerning the origins of health led him to propose the Salutogenic 
+
+Model  of  Health  (Figure  2.1).    This  model  illustrates  how  various  components  work 
+
+together  leading  to  a  prediction  of  an  individual’s  position  along  the  ease-dis-ease 
+
+continuum.    The  following  discussion,  which  clarifies  the  important  components  of  the 
+
+model, is summarised from Chapter 7 of Antonovsky’s Health, Stress, and Coping (1979, 
+
+pp. 182-197). 
+
+(cid:153) Sense  of  Coherence.    Antonovsky’s  notion  of  ‘Sense  of  Coherence’  is  the  central 
+
+tenet  of  his  salutogenic  paradigm  and  will  be  discussed  in  greater  depth  in  the 
+
+following section.  He says (Antonovsky, 1979): 
+
+I start the discussion from the sense of coherence.  This is, after all, the core of 
+my  answer  to  the  problem  of  salutogenesis.    The  sense  of  coherence  is 
+measurable;  each  of  us  is  located  at  some  point  on  the  sense-of-coherence 
+continuum, which can be seen as an ordinal scale.  (p. 183) 
+
+(cid:153) Life Experiences.  Arrow A in Figure 2.1 indicates the importance of life experiences 
+
+in  the  development  of  a  sense  of  coherence.    “The  more  these  experiences  are 
+
+characterized by consistency, participation in shaping outcome, and an underload- 
+
+Resilience Theory: A Literature Review  
+ 
+
+Page 17 
+
+s
+t
+c
+a
+r
+e
+t
+n
+i
+t
+a
+h
+t
+r
+o
+s
+r
+u
+c
+e
+r
+p
+a
+r
+e
+n
+e
+g
+a
+
+l
+
+s
+i
+s
+s
+e
+r
+t
+S
+:
+Q
+w
+o
+r
+r
+A
+
+s
+a
+
+i
+l
+
+u
+m
+
+i
+t
+s
+s
+e
+n
+
+i
+f
+e
+d
+,
+s
+R
+R
+S
+d
+n
+a
+s
+R
+R
+G
+
+.
+e
+c
+n
+e
+r
+e
+h
+o
+c
+f
+o
+e
+s
+n
+e
+s
+e
+h
+t
+s
+n
+e
+h
+t
+g
+n
+e
+r
+t
+s
+
+t
+n
+e
+m
+e
+g
+a
+n
+a
+m
+n
+o
+
+i
+s
+n
+e
+t
+l
+u
+f
+s
+s
+e
+c
+c
+u
+S
+:
+O
+w
+o
+r
+r
+A
+
+'
+s
+k
+n
+
+i
+l
+
+'
+
+k
+a
+e
+w
+d
+n
+a
+s
+n
+e
+g
+o
+h
+t
+a
+p
+c
+i
+n
+e
+g
+o
+d
+n
+e
+h
+t
+i
+
+w
+
+.
+s
+u
+t
+a
+t
+s
+h
+t
+l
+a
+e
+h
+t
+c
+e
+f
+f
+a
+o
+t
+s
+s
+e
+r
+t
+s
+h
+t
+i
+
+w
+d
+n
+a
+
+e
+c
+n
+a
+t
+s
+i
+s
+e
+r
+d
+e
+z
+i
+l
+
+a
+r
+e
+n
+e
+g
+e
+h
+t
+t
+c
+e
+f
+f
+a
+s
+r
+o
+s
+s
+e
+r
+t
+S
+:
+B
+w
+o
+r
+r
+A
+
+.
+e
+c
+n
+e
+r
+e
+h
+o
+c
+
+t
+n
+e
+m
+e
+g
+a
+n
+a
+m
+n
+o
+
+i
+s
+n
+e
+t
+l
+u
+f
+s
+s
+e
+c
+c
+u
+S
+:
+N
+w
+o
+r
+r
+A
+
+t
+c
+a
+r
+e
+t
+n
+i
+s
+r
+o
+s
+s
+e
+r
+t
+s
+l
+a
+c
+i
+m
+e
+h
+c
+o
+b
+d
+n
+a
+a
+c
+i
+h
+c
+y
+s
+P
+:
+H
+w
+o
+r
+r
+A
+
+l
+
+i
+
+f
+o
+e
+s
+n
+e
+s
+e
+h
+t
+e
+p
+a
+h
+s
+s
+e
+c
+n
+e
+i
+r
+e
+p
+x
+e
+e
+f
+i
+L
+:
+A
+w
+o
+r
+r
+A
+
+h
+t
+l
+a
+e
+h
+e
+h
+t
+n
+o
+e
+c
+a
+l
+
+p
+s
+'
+e
+n
+o
+s
+n
+i
+a
+t
+n
+i
+a
+m
+
+.
+
+m
+u
+u
+n
+i
+t
+n
+o
+c
+e
+s
+a
+e
+-
+s
+i
+
+d
+/
+e
+s
+a
+e
+
+l
+
+y
+e
+v
+i
+t
+a
+g
+e
+n
+'
+s
+k
+n
+
+i
+l
+
+'
+
+k
+a
+e
+w
+d
+n
+a
+s
+n
+e
+g
+o
+h
+t
+a
+p
+
+d
+n
+a
+s
+s
+e
+r
+t
+s
+f
+o
+e
+t
+a
+t
+s
+e
+h
+t
+n
+e
+e
+w
+t
+e
+b
+n
+o
+i
+t
+c
+a
+r
+e
+t
+n
+I
+:
+P
+w
+o
+r
+r
+A
+
+i
+
+.
+s
+r
+o
+s
+s
+e
+r
+t
+s
+s
+d
+o
+v
+a
+,
+s
+R
+R
+S
+d
+n
+a
+s
+R
+R
+G
+
+.
+s
+e
+c
+n
+e
+i
+r
+e
+p
+x
+e
+
+i
+
+r
+o
+d
+o
+v
+a
+s
+e
+r
+u
+s
+a
+e
+m
+h
+t
+l
+a
+e
+h
+e
+t
+a
+v
+i
+r
+p
+d
+n
+a
+c
+i
+l
+
+b
+u
+P
+:
+I
+w
+o
+r
+r
+A
+
+.
+l
+a
+s
+o
+p
+s
+i
+d
+s
+'
+e
+n
+o
+t
+a
+s
+e
+c
+r
+u
+o
+s
+e
+r
+
+g
+n
+i
+z
+i
+l
+i
+
+b
+o
+m
+,
+e
+c
+n
+e
+r
+e
+h
+o
+c
+f
+o
+e
+s
+n
+e
+s
+g
+n
+o
+r
+t
+s
+A
+:
+J
+e
+n
+L
+
+i
+
+e
+f
+i
+l
+t
+n
+e
+r
+e
+h
+o
+c
+,
+l
+
+u
+f
+g
+n
+
+i
+
+n
+a
+e
+m
+f
+o
+s
+t
+e
+s
+
+.
+s
+r
+o
+s
+s
+e
+r
+t
+s
+e
+z
+i
+l
+
+a
+r
+t
+u
+e
+n
+
+h
+t
+i
+
+w
+e
+n
+o
+s
+e
+d
+
+i
+v
+o
+r
+p
+R
+R
+G
+a
+
+,
+n
+o
+
+i
+t
+i
+n
+i
+f
+e
+d
+y
+B
+:
+C
+e
+n
+i
+L
+
+.
+s
+u
+t
+a
+t
+s
+h
+t
+l
+a
+e
+h
+s
+t
+c
+e
+f
+f
+a
+
+g
+n
+i
+z
+i
+l
+i
+
+b
+o
+m
+,
+e
+c
+n
+e
+r
+e
+h
+o
+c
+f
+o
+e
+s
+n
+e
+s
+g
+n
+o
+r
+t
+s
+A
+:
+K
+e
+n
+L
+
+i
+
+s
+e
+z
+i
+l
+i
+
+b
+o
+m
+e
+c
+n
+e
+r
+e
+h
+o
+c
+f
+o
+e
+s
+n
+e
+s
+g
+n
+o
+r
+t
+s
+A
+:
+D
+w
+o
+r
+r
+A
+
+l
+
+d
+n
+a
+c
+i
+n
+e
+g
+o
+d
+n
+e
+a
+i
+t
+n
+e
+t
+o
+p
+g
+n
+i
+t
+s
+i
+x
+e
+e
+h
+t
+h
+t
+i
+
+w
+
+.
+'
+s
+k
+n
+
+i
+l
+
+'
+
+k
+a
+e
+w
+d
+n
+a
+s
+n
+e
+g
+o
+h
+t
+a
+p
+c
+i
+n
+e
+g
+o
+x
+e
+
+n
+o
+i
+t
+i
+s
+i
+u
+q
+c
+a
+e
+h
+t
+s
+e
+t
+a
+t
+i
+l
+i
+c
+a
+f
+s
+u
+t
+a
+t
+s
+h
+t
+l
+a
+e
+h
+d
+o
+o
+G
+:
+R
+w
+o
+r
+r
+A
+
+.
+l
+e
+d
+o
+m
+c
+i
+n
+e
+g
+o
+t
+u
+a
+s
+e
+h
+t
+f
+o
+e
+r
+o
+c
+
+l
+
+l
+
+e
+h
+t
+e
+r
+a
+d
+o
+b
+n
+i
+s
+w
+o
+r
+r
+a
+d
+n
+a
+s
+t
+n
+e
+m
+e
+t
+a
+t
+s
+e
+h
+T
+
+:
+e
+t
+o
+N
+
+d
+n
+a
+n
+o
+
+i
+s
+n
+e
+t
+f
+o
+e
+t
+a
+t
+s
+e
+h
+t
+h
+t
+i
+
+w
+t
+c
+a
+r
+e
+t
+n
+
+i
+
+e
+h
+t
+d
+n
+a
+n
+o
+
+i
+t
+c
+a
+g
+n
+d
+o
+h
+a
+
+i
+
+l
+
+e
+g
+a
+n
+a
+m
+
+.
+s
+r
+o
+s
+s
+e
+r
+t
+s
+f
+o
+g
+n
+m
+o
+c
+r
+e
+v
+o
+
+i
+
+.
+s
+r
+o
+s
+s
+e
+r
+t
+s
+n
+o
+n
+
+.
+n
+o
+
+i
+s
+n
+e
+t
+
+.
+s
+R
+R
+G
+r
+e
+h
+t
+o
+f
+o
+
+)
+s
+R
+R
+S
+d
+n
+a
+(
+s
+R
+R
+G
+d
+e
+z
+i
+l
+i
+
+b
+o
+m
+e
+h
+T
+:
+M
+w
+o
+r
+r
+A
+
+f
+o
+e
+t
+a
+t
+s
+a
+
+e
+t
+a
+e
+r
+c
+s
+r
+o
+s
+s
+e
+r
+t
+s
+s
+u
+o
+t
+i
+u
+q
+
+i
+
+b
+U
+:
+L
+w
+o
+r
+r
+A
+
+d
+n
+a
+,
+s
+r
+o
+t
+c
+a
+f
+c
+i
+t
+a
+r
+c
+n
+y
+s
+o
+d
+
+i
+
+i
+
+,
+s
+e
+x
+e
+l
+
+p
+m
+o
+c
+
+.
+l
+a
+s
+o
+p
+s
+i
+
+d
+s
+'
+
+e
+n
+o
+t
+a
+s
+R
+R
+S
+d
+n
+a
+s
+R
+R
+G
+e
+h
+t
+
+e
+l
+
+o
+r
+l
+a
+i
+c
+o
+s
+,
+s
+n
+r
+e
+t
+t
+a
+p
+g
+n
+
+i
+r
+a
+e
+r
+d
+
+l
+i
+
+h
+C
+:
+E
+w
+o
+r
+r
+A
+
+o
+t
+e
+r
+u
+s
+o
+p
+x
+e
+f
+o
+t
+n
+e
+t
+x
+e
+s
+t
+c
+e
+f
+f
+a
+s
+u
+t
+a
+t
+s
+h
+t
+l
+a
+e
+h
+
+;
+y
+l
+t
+c
+e
+r
+i
+d
+s
+u
+t
+a
+t
+s
+h
+t
+l
+a
+e
+h
+t
+c
+e
+f
+f
+a
+s
+r
+o
+s
+s
+e
+r
+t
+s
+
+.
+s
+r
+o
+s
+s
+e
+r
+t
+s
+l
+a
+i
+c
+o
+s
+o
+h
+c
+y
+s
+p
+
+.
+s
+r
+o
+s
+s
+e
+r
+t
+s
+e
+t
+a
+e
+r
+c
+o
+s
+l
+a
+s
+R
+R
+G
+f
+o
+s
+e
+c
+r
+u
+o
+s
+e
+h
+T
+:
+F
+w
+o
+r
+r
+A
+
+l
+
+a
+c
+i
+m
+e
+h
+c
+o
+
+i
+
+l
+
+b
+d
+n
+a
+a
+c
+i
+s
+y
+h
+p
+c
+i
+t
+a
+m
+u
+a
+r
+T
+:
+G
+w
+o
+r
+r
+A
+
+.
+s
+R
+R
+G
+p
+u
+d
+
+l
+i
+
+u
+b
+e
+c
+n
+a
+h
+c
+
+overload  balance  of  stimuli,  the  more  we begin  to  see  the  world  as  being  coherent 
+
+and  predictable”  (Antonovsky,  1979,  p.  187).    The  foundations  of  the  sense  of 
+
+coherence  are  laid  in  childhood,  during  one’s  formative  life  experience,  but  can 
+
+change  throughout  life  in  response  to  significant  cataclysmic  life  events  or  through 
+
+personal development and growth. 
+
+(cid:153) Generalised Resistance Resources.  Generalised Resistance Resources (GRRs) are 
+
+the factors give life experiences the qualities of “consistency, participation in shaping 
+
+outcome and neither underload nor overload” (Antonovsky, 1979, p. 189).  GRRs, by 
+
+definition, provide a person with life experiences that are meaningful and coherent.  
+
+The  relationship  between  life  experiences  and  GRRs  is  not  causal,  hence  Line  C  in 
+
+Figure  2.1  is  a  line  and  not  an  arrow.    GRRs  are  the  ingredients  that  mix  together 
+
+with life experiences to influence one’s sense of coherence. 
+
+(cid:153) Sources  of  GRRs.    As  indicated  by  Arrow  E,  GRRs  are  rooted  in  still  earlier 
+
+experiences  that  are  located  within  a  sociocultural  and  historical  context.    One’s 
+
+position  in  society  affords  one  certain  opportunities  and  conditions  –  some  better, 
+
+some worse.  These conditions affect the repertoire of and the type of GRRs that can 
+
+develop.  In  particular,  they  influence  child  rearing  patterns  and  social-role 
+
+complexes.    There  are  other  factors,  however,  which  are  not  subject  to  context: 
+
+idiosyncratic factors such as an individual’s personality, appearance, intelligence, etc 
+
+as well as chance factors influence the development of GRRs.  While people who are 
+
+poor  or  isolated  from  participating  in  society  have  fewer  opportunities  to  develop 
+
+GRRs, they are not completely without opportunity. 
+
+(cid:153) Stressors.    Although  the  sense  of  coherence  occupies  the  central  position  of  the 
+
+Salutogenic Model, stressors occupy the most ‘busy’ position.  Arrow F indicates that 
+
+the sources of GRRs (as discussed in the previous paragraph) influence the kinds of 
+
+stressors present in an individual’s experience.  Arrow B indicates that stressors can 
+
+profoundly influence one’s GRRs by introducing unexpected experiences that promote 
+
+or  shake  one’s  GRRs.    Arrow  G  indicates  that  traumatic  physical  or  biochemical 
+
+stressors  (such  as  poison,  a  bullet  or  a  car)  affect  one’s  position  on  the  health 
+
+continuum  directly.    Arrow  H  indicates  that  prolonged  exposure  to  physical  and 
+
+biochemical  stressors  can  indirectly  affect  one’s  health  through  interaction  with 
+
+potential  pathogens  and  one’s  state  of  stress.    Arrow  L  indicates  that  the  stressors 
+
+place one in a state of tension. 
+
+Resilience Theory: A Literature Review  
+ 
+
+Page 19 
+
+(cid:153) Management  of  Tension.    Arrow  I  indicates  that  advances  in  preventive  and 
+
+remedial  medicine  have  increased  society’s  capacity  to  reduce,  restrict  or  remove 
+
+some of the stressors.  Of course, “the bugs … are smarter” (Antonovsky, 1979, p. 
+
+193)  making  such  measures  inadequate  to  ensure  health.    Arrow  D  indicates  how 
+
+sense  of  coherence  enables  the  management  of  tension  that  arises  from  the 
+
+stressors  by  mobilising  the  GRRs  and  also  other  Specific  Resistance  Resources 
+
+(SRRs).  The mobilised GRRs can then be used in three main ways.  Firstly, as can be 
+
+seen by Line J, one can avoid the stressors completely.  Secondly, Line K indicates 
+
+that  certain  stressors  can  be  redefined  “as  innocuous  or  even  as  welcome”  (ibid.).  
+
+Thirdly, as Arrow M indicates, the GRRs enable one to manage one’s state of tension 
+
+by holding the stress or by overcoming the stressor (see the previous discussion on 
+
+Pearlin  and  Schooler’s  (1982)  three  types  of  coping  which  are  relevant  here).  
+
+Successful  efforts  to  manage  the  state  of  tension  contribute  to  one’s  sense  of 
+
+coherence  (Arrow  N),  by  enabling  one  to  “learn  that  existence  is  neither  shattering 
+
+nor meaningless” (Antonovsky, 1979, p. 194). 
+
+(cid:153) Stress.    The  successful  management  of  stress  contributes  to  one’s  sense  of 
+
+coherence  (Arrow  N)  and  also  maintains  one’s  position  along  the  health  continuum 
+
+(Arrow  O).    Unsuccessful  management  of  tension  contributes  to  a  state  of  stress, 
+
+which,  together  with  the  indirect  work  of  stressors  and  the  activation  of  potential 
+
+pathogens,  leads  to  illness  (Arrow  P).    Arrow  Q  indicates  that  the  pathogens  that 
+
+‘cause’  illness  do  so  only  in  interaction  with  a  state  of  stress.    This  suggests  that, 
+
+“other than the massive traumata that leave none unscathed (Arrow G), all diseases 
+
+are  usefully  understood  as  psychosomatic.    In  other  words,  almost  all  breakdown 
+
+involves stress.  Stress, however, does not determine the particular expression of the 
+
+breakdown” (Antonovsky, 1979, p. 196). 
+
+(cid:153) Health.  One’s position on the health or ease/dis-ease continuum is the final stage of 
+
+the  Salutogenic  Model.    One’s  health  status  acts  on  one’s  life  experiences  in  three 
+
+main ways.  Firstly, Arrow G indicates that one’s health status influences the kinds of 
+
+stressors one is exposed to.  Secondly, Arrow R indicates that “good health is in itself 
+
+a  significant  generalized  resistance  resource  by  the  definition  of  a  GRR  as  a  factor 
+
+that  fosters  meaningful  and  sensible  life  experiences”  (Antonovsky,  1979,  p.  197).  
+
+Thirdly, being healthy “can facilitate the acquisition of other GRRs” (ibid.). 
+
+In short, childrearing patterns and social-role complexes build up generalised resistance 
+
+resources  (Arrow  E),  which  provide  one  with  sets  of  meaningful,  coherent  life 
+
+experiences (Line C) which shape an individual’s sense of coherence (Arrow A).  When 
+
+Resilience Theory: A Literature Review  
+ 
+
+Page 20 
+
+one is exposed to life stress, one enters a state of tension (Arrow L).  A strong sense of 
+
+coherence  mobilises  one’s  available  GRRs  (Arrow  D),  which  interact  with  the  state  of 
+
+tension  to  hold  the  stress  and  overcome  the  stressor  (Arrow  M).    Successful 
+
+management  of  the  tension  boosts  one’s  sense  of  coherence  (Arrow  N)  and  maintains 
+
+one’s position towards the health end of the ease/dis-ease continuum (Arrow O). 
+
+ 
+
+2.4  SENSE OF COHERENCE 
+
+2.4.1 
+
+INTRODUCTION TO SOC 
+
+As the previous section will have made clear, ‘Sense of Coherence’ (SOC) is the central 
+
+contribution of Antonovsky’s salutogenic theorising.  Antonovsky’s research investigated 
+
+the source of resilience and found the GRRs.  Further research indicated that GRRs were 
+
+mobilised  by  another  construct,  namely  SOC  (Antonovsky,  1998b).    Ongoing  research 
+
+provided  ample  evidence  to  support  the  notion  that  people’s  SOC  contributed 
+
+substantially to their resilience and health. 
+
+Before unpacking what SOC is, it is important to clarify what it is not.  It is not a specific 
+
+coping style or method or resource.  It is rather a general approach to life that enables 
+
+the mobilisation of specific coping resources (Antonovsky, 1998a): 
+
+Much as salutogenesis is a very broad construct, seeking to understand health rather 
+than any given diagnostic category of disease, so the SOC is, in two senses, broader 
+than the coping resources that have been studied.  First, it is most emphatically not a 
+coping style or a substantive resource.  The crucial idea is that, since people confront 
+such a wide variety of bugs, no specific style or resource is ever appropriate all the 
+time.    The  person  with  a  strong  SOC,  believing  that  she  or  he  understands  the 
+problem  and  sees  it  as  a  challenge,  will  select  what  is  believed  to  be  the  most 
+appropriate  tool  for  the  task  at  hand.    Second,  the  SOC  distills  the  core  of  specific 
+coping or resistance resources (money, social support, mastery, a confidant, a belief 
+in God, and so on), and expresses what they have in common: they enhance one’s 
+sense  of  comprehensibility,  manageability,  and  meaningfulness.    In  this  way,  the 
+SOC offers an explanation of how these resources may contribute to health.  (p. 8) 
+
+SOC was originally defined as follows (Antonovsky, 1979): 
+
+The sense of coherence is a global orientation that expresses the extent to which one 
+has  a  pervasive,  enduring  though  dynamic  feeling  of  confidence  that  one’s  internal 
+and  external  environments  are  predictable  and  that  there  is  a  high  probability  that 
+things will work out as well as can reasonably be expected.  (p. 123) 
+
+Resilience Theory: A Literature Review  
+ 
+
+Page 21 
+
+Ongoing  research  led  Antonovsky  to  identify  three  main  components  of  SOC,  viz: 
+
+comprehensibility,  manageability  and  meaningfulness.    This  resulted  in  a  reformulation 
+
+of the original definition (1987, cited in Antonovsky, 1998b): 
+
+A global orientation that expresses the extent to which one has a pervasive, enduring 
+though dynamic feeling of confidence that (1) the stimuli deriving from one’s internal 
+and  external  environments  in  the  course  of  living  are  structured,  predictable,  and 
+explicable;  (2)  the  resources  are  available  to  one  to  meet  the  demands  posed  by 
+these  stimuli;  and  (3)  these  demands  are  challenges,  worthy  of  investment  and 
+engagement (Antonovsky, 1987, p. 19).  (p. 22) 
+
+These three components can be discussed in more detail: 
+
+(cid:153) Comprehensibility.    The  comprehensibility  component  of  SOC  is  what  was  most 
+
+strongly emphasised by the original 1979 definition of SOC, viz “the extent to which 
+
+individuals  perceive  the  stimuli  that  confront  them  as  making  cognitive  sense,  as 
+
+information that is ordered, consistent, structured, and clear – and, hence, regarding 
+
+the  future,  as  predictable  –  rather  than  as  noisy,  chaotic,  disordered,  random, 
+
+accidental,  and  unpredictable”  (Antonovsky,  1984,  p.  118).    Comprehensibility  is 
+
+primarily  a  cognitive  dimension,  referring  to  how  the  individual  thinks  about  or 
+
+makes sense of a set of internal or external stimuli or situations.  It implies that life, 
+
+which  is  currently  comprehensible,  is  expected  to  comprehensible  in  the  future.    It 
+
+also  implies  that,  although  one  may  undergo  great  difficulties,  challenges  and 
+
+complex situations, there is a fundamental conviction that these situations will make 
+
+sense. 
+
+(cid:153) Manageability.    Manageability  is  “the  extent  of  the  belief  that  not  only  did  one 
+
+understand  the  problem,  but  that  the  requisite  resources  to  cope  with  the  problem 
+
+successfully were at one’s disposal” (Antonovsky, 1998a, p. 7).  It may appear that 
+
+manageability  refers  to  the  sense  that  life  is  'under  my  control’  and  that  it  is  thus 
+
+equivalent  to  Rotter’s  Locus  of  Control  (to  be  discussed  further  in  a  later  section).  
+
+However,  Antonovsky  (1984)  argues  that  Locus  of  Control  and  Manageability  are 
+
+quite different constructs: 
+
+“At one’s disposal” may refer to resources under one’s own control – the … Rotter 
+understanding – but it may also refer to resources controlled by legitimate others 
+– friends, colleagues, God, history – upon whom one can count.  No implication 
+exists that untoward things do not happen in life.  They do; but when people are 
+high on manageability, they have the sense that, aided by their own resources or 
+by those of legitimate others, they will be able to cope and not grieve endlessly.  
+Moreover, there will be no sense of being victimized by events or of being treated 
+unfairly by life.  (p. 119) 
+
+Resilience Theory: A Literature Review  
+ 
+
+Page 22 
+
+(cid:153) The  concept  of  ‘legitimate  others’  introduces  the  notion  that  being  tied  into  a 
+
+meaningful social network promotes one’s resilience, a subject that will be addressed 
+
+in greater depth later. Strümpfer (1990, p. 269) notes “that the mere perception that 
+
+help  is  available  may  operate  [to  enhance  resilience],  without  any  actual  support 
+
+being provided.” 
+
+(cid:153) Meaningfulness.    Meaningfulness  is  the  emotional  face  of  comprehensibility 
+
+(Antonovsky, 1984).  While comprehensibility means that life makes cognitive sense, 
+
+meaningfulness means that life is emotionally worthwhile and sensible.  In this way, 
+
+meaningfulness  accounts  for  an  individual’s  motivation  to  engage  in  a  difficult  life 
+
+situation (Antonovsky, 1998a).  To say that life is meaningful is to say that one cares 
+
+(Antonovsky,  1984).    When  a  difficult  situation  is  perceived  as  meaningful,  one 
+
+chooses  to  invest  emotional  energy  in  dealing  with  it,  one  sees  the  difficulty  as  a 
+
+challenge  in  which  it  is  worth  investing  energy  and  commitment,  rather  than  as  a 
+
+burden (ibid.). 
+
+An individual who had a weak Sense of Coherence would thus (Strümpfer, 1990): 
+
+Perceive  internal  and  external  stimuli  as  noise,  not  information,  as  inexplicable 
+disorder  and  chaos,  and  as  unpredictable  in  future;  (s)he  would  experience  the 
+events  of  life  as  unfortunate  things  that  happen  to  her/him  and  victimize  her/him 
+unfairly;  and  (s)he  would  feel  that  nothing  in  life  mattered  much,  or  worse,  are 
+unwelcome demands and wearisome burdens. (p. 269) 
+
+By contrast, the person with a strong SOC (Cederblad et al., 1994): 
+
+Confronting  stressors,  is  capable  of  clarifying  and  structuring  the  nature  of  the 
+stressor, believes that the appropriate resources are available and can be mobilized 
+to  deal  successfully  with  the  challenge,  and  is  motivated  to  deal  with  it.    Such  an 
+orientation to life … allows the selection of appropriate coping strategies and provides 
+a solid base for maintenance and strengthening of health and well being.  (pp. 2-3) 
+
+2.4.2 
+
+DETAILS CONCERNING SOC 
+
+In  his  various  writings,  Antonovsky  unpacks  a  number  of  important  details  concerning 
+
+Sense of Coherence: 
+
+ 
+
+ 
+
+ 
+
+ 
+Resilience Theory: A Literature Review  
+ 
+
+Page 23 
+
+2.4.2.1 
+
+SOC is a Paradigm 
+
+SOC  is  a  personal  paradigm.    Inasmuch  as  salutogenesis  is  a  paradigm,  a  “set  of 
+
+fundamental beliefs inaccessible to empirical validation” (Strümpfer, 1990, p. 263), SOC 
+
+is a personal paradigm that indicates an individual’s global outlook on life (Antonovsky, 
+
+The sense of coherence explicitly and unequivocally is a generalized, long-lasting way 
+of  seeing  the  world  and  one’s  life  in  it.    It  is  perceptual,  with  both  cognitive  and 
+affective components.  Its referent is not this or that area of life, this or that problem 
+or situation, this or that time, or, in our terms, this or that stressor.  It is, I suggest, 
+a  crucial  element  in  the  basic  personality  structure  of  an  individual  and  in  the 
+ambiance of a subculture, culture, or historical period.  (p. 124) 
+
+1979): 
+
+ 
+
+2.4.2.2 
+
+SOC is Dynamic 
+
+Antonovsky  assumes  that  SOC  is  established  by  about  age  30  and  thereafter  remains 
+
+stable (Antonovsky, 1984, p. 118).  A person who enters adulthood with a strong SOC 
+
+will  tend  to  generate  life  experiences  that  reinforce,  even  promote,  their  SOC.    Even 
+
+catastrophic life events will, most likely, be survived with SOC remaining intact.  On the 
+
+other  hand,  a  person  whose  life  experiences  during  the  first  30  years  are  marked  by 
+
+chaos  will  enter  adulthood  with  a  weak  SOC.    It  is  unlikely  that  even  regular  SOC 
+
+enhancing  life  experiences  will  fundamentally  alter  their  SOC.    “By  and  large  …  the 
+
+person  with  a  weak  SOC  in  adulthood  will  manifest  a  cyclical  pattern  of  deteriorating 
+
+health and a weakening SOC” (Antonovsky, 1998a, p. 15).  Antonovsky is arguing that 
+
+people with high SOC get more SOC, while people with low SOC get less. 
+
+However, Antonovsky points out that his position is theoretical not empirical, and that he 
+
+has no evidence to substantiate his argument (Antonovsky, 1998a).  He also argues that 
+
+SOC  is  dynamic  and  can  change  during  an  individual’s  life  course.    “I  certainly  am  not 
+
+committed  to  understanding  the  sense  of  coherence  as  being  determined  forever  and 
+
+anon  by  genes  or  early  childhood  experience.    It  is  shaped  and  tested,  reinforced  and 
+
+modified  not  only  in  childhood  but  throughout  one’s  life”  (Antonovsky,  1979,  p.  125).  
+
+He suggests that “change, even significant change, can occur if people can be enabled to 
+
+alter  their  lives  significantly,  encouraging  SOC-enhancing  experiences  to  occur  with 
+
+greater frequency over a sustained period” (Flick & Homan, 1998, p. 109). 
+
+Antonovsky’s somewhat contradictory statements regarding the stability and dynamism 
+
+of SOC are not well resolved.  There is little research pointing to ways to enhance SOC.  
+
+Resilience Theory: A Literature Review  
+ 
+
+Page 24 
+
+There is also little research indicating the degree to which a weak SOC can be bolstered 
+
+and  substantially  improved.    In  1998,  Antonovsky  stated  that  the  “developmental 
+
+dynamics  of  the  sense  of  coherence”  was  one  of  three  important  areas  for  ongoing 
+
+research, indicating this to be an unresolved issue. 
+
+ 
+
+2.4.2.3 
+
+Boundaries 
+
+SOC is the view that a person has about the world around him/her.  It does not follow, 
+
+however,  that  the  person  must  view  the  entire  world  as  comprehensible,  manageable 
+
+and  meaningful.    Antonovsky’s  research  found  that  people  draw  boundaries  within  the 
+
+objective world – provided those things which fall within the boundaries are considered 
+
+coherent  the  person  will  have  a  strong  SOC,  irrespective  of  the  coherence  of  things 
+
+outside  the  boundaries.    “Quite  conceivably,  people  might  feel  that  they  have  little 
+
+interest in national government or international politics, little competence in manual (or 
+
+cognitive  or  aesthetic)  skills,  little  concern  for  local  volunteer  groups  or  trade  union 
+
+activity, and so on, and yet have a strong SOC” (Antonovsky, 1984, p. 119). 
+
+This  is  similar  to  Covey’s  notion  of  circles  of  concern  and  influence  (Covey,  Merrill,  & 
+
+Merrill,  1994,  p.  150).    The  ‘circle  of  concern’  refers  to  everything  about  which  one  is 
+
+concerned.    Things  outside  of  the  circle  of  concern  are  of  no  importance  to  that 
+
+individual.  Within the circle of concern is a smaller circle, the ‘circle of influence’, which 
+
+refers  to  those  things  which  concern  that  individual  and  over  which  that  individual  has 
+
+some  influence.    Covey’s  point  is  that  being  concerned  about  something  does  not  give 
+
+one influence over it.  By focusing on the area between the two circles (ie those things 
+
+which  concern  one  but  over  which  one  has  no  influence)  one  creates  SOC  reducing 
+
+experiences, since the situation is not manageable.  In this regard, Antonovsky (1984, p. 
+
+119)  asks,  “First,  is  there  at  least  some  part  of  my  life  that  does  matter  very  much, 
+
+which  I  care  about  [ie  the  circle  of  concern]?    Second,  within  these  boundaries,  are 
+
+stimuli  meaningful,  comprehensible,  and  manageable  [ie  the  circle  of  influence]?”    By 
+
+focusing on issues within the circle of influence, one is assured of life experiences that 
+
+are coherent, and in so doing, one can (theoretically) expand the circle of influence. 
+
+Of course, a person may have a very small circle of concern and an even smaller circle of 
+
+influence,  yielding  a  life  that  is  very  limited  in  scope  although  potentially  high  in  SOC.  
+
+Not everything can be left out of the circle of influence, however (Strümpfer, 1990): 
+
+Resilience Theory: A Literature Review  
+ 
+
+Page 25 
+
+Antonovsky (1987) maintained that there are four spheres that cannot be excluded if 
+the  person  is  to  maintain  a  strong  SOC,  namely,  his/her  own  feelings,  immediate 
+interpersonal relations, the major sphere of activity (work, really) and the existential 
+issues of death, inevitable failures, shortcomings, conflict and isolation.  (p. 269) 
+
+ 
+
+2.4.2.4 
+
+SOC and Values 
+
+It  is  tempting  to  think  that  people  with  high  SOC  will  be  principled  people  with 
+
+humanitarian values.  This, however, is not so.  “A person with a strong SOC might well 
+
+be  a  terrible  person  in  terms  of  my  (or  your)  values;  …  a  Nazi  or  …  a  highly 
+
+manipulative,  unscrupulous  academic,  or  a  member  of  an  extreme  religious  sect” 
+
+(Antonovsky,  1984,  p.  120).    In  this  way,  SOC  is  value  neutral  and  is  simply  a  world-
+
+view that tends to promote an individual’s health in the face of life stressors. 
+
+ 
+
+ 
+
+2.4.2.5 
+
+SOC and Work 
+
+Given that the workplace is where most people spend a large percentage of their waking 
+
+hours, the relationship between SOC and work is an area of interest.  Strümpfer  (1990) 
+
+has studied this area extensively and says that having high SOC will result in the person: 
+
+Making cognitive sense of the workplace, perceiving its stimulation as clear, ordered, 
+structured, consistent and predictable information; 
+
+Perceiving  his/her  work  as  consisting  of  experiences  that  are  bearable,  with  which 
+(s)he  can  cope,  and  as  challenges  that  (s)he  can  meet  by  availing  him-/herself  of 
+personal resources or resources under the control of legitimate others; 
+
+And  making  emotional  and  motivational  sense  of  work  demands,  as  welcome 
+challenges, worthy of engaging in and investing his/her energies in.  (p. 270) 
+
+Antonovsky notes that work need not be intrinsically satisfying to be a SOC reinforcing 
+
+experience.  “People may find little joy in their work, but if they feel that the work has a 
+
+meaning  because  it  is  how  they  support  their  family  and  keep  it  functioning  smoothly 
+
+and happily, they can still have a strong SOC” (Antonovsky, 1984, p. 120). 
+
+2.4.2.6 
+
+Coherence and Locus of Control 
+
+Locus  of  Control  implies  that  that  events  are  under  control  of  an  individual,  leading  to 
+
+the phrase ‘sense of control’ or ‘I am in control’.  “The sense of control is totally related 
+
+Resilience Theory: A Literature Review  
+ 
+
+Page 26 
+
+to the freedom of the individual to choose among available alternatives and to perceive 
+
+the outcome of the dynamic situation as completely contingent on the choice he or she 
+
+makes” (Antonovsky, 1979, p. 153).  Internal locus of control (ibid.): 
+
+Locates  one’s  fate  in  one’s  own  hands.    The  tendency  is  most  ethnocentrically 
+powerful to equate sense of coherence, sense of control, and internal locus of control, 
+using  the  model  of  the  autonomous  individual  extolled  in  the  litany  of  Western 
+societies  since  the  Industrial  Revolution  –  or,  perhaps  more  appropriately,  the 
+Protestant Revolution.  This ideological paradigm dominates our own lives and shapes 
+our science.  (p. 153) 
+
+Antonovsky strongly argues that the equation of manageability and control is a Western 
+
+and culturally biased practice, where the ego is placed at the centre of the universe and 
+
+where  any  form  of  control  that  is  not  ‘my  control’  is  greatly  mistrusted.    He  draws  a 
+
+distinction  between  the  phrases  “I  am  in  control”  and  “Things  are  under  control” 
+
+(Antonovsky,  1979,  p.  155)  to  illustrate  this  difference.    “I  am  in  control”  is  the 
+
+dominant Western paradigm, while “Things are under control” is a dominant paradigm in 
+
+many  other  cultures.    He  goes  further  to  state  that  in  some  cultures  SOC  is  strongly 
+
+enhanced  by  the  belief  that  things  are  under  the  control  of  a  beneficent  deity  (or 
+
+powerful others) (ibid.). 
+
+The crux, argues Antonovsky, lies in the concept of ‘participation’ (Antonovsky, 1979): 
+
+If  life  offers  one  the  chance  of  confirming  one’s  predestined  salvation  by  doing  the 
+prescribed right things, one can have a strong sense of coherence.  Only when there 
+is  no  deity,  no  writ,  but  only  meaningless  chaos  does  one’s  only  hope  lie  in  an 
+internal locus of control.  There are, then, many cultural roads to a strong sense of 
+coherence.  (p. 156) 
+
+The crucial issue is not whether power to determine such outcomes lies in our own 
+hands  or  elsewhere.    What  is  important  is  that  the  location  of  power  is  where  it  is 
+legitimately supposed to be.  This may be within oneself; it may be in the hands of 
+the head of the family, patriarchs, leaders, formal authorities, the party, history, or a 
+deity.    The  element  of  legitimacy  assures  one  that  issues  will,  in  the  long  run,  be 
+resolved by such authority in one’s own interests.  Thus a strong sense of coherence 
+is not at all endangered by not being in control oneself.  (p. 128) 
+
+ 
+
+2.4.2.7 
+
+Fake SOC 
+
+It  is  possible  for  a  person  to  have  a  ‘fake  sense  of  coherence’  (Antonovsky,  1979,  p. 
+
+158).    “The  claim  that  everything  is  comprehensible  and  that  all  problems  can  be 
+
+managed suggests a profound underlying anxiety that this not at all the case, a fragile 
+
+covering  that  might  easily  be  rent  apart”  (Antonovsky,  1984,  p.  119).    Antonovsky 
+
+continues elsewhere (1979): 
+Resilience Theory: A Literature Review  
+ 
+
+Page 27 
+
+When  there  is  a  contention  that  all  problems  have  an  answer,  when  challenge  or 
+doubt is intolerable, when there is no flexibility to adapt to changing circumstances, 
+when  one  claims  to  be  in  control  of  all  things  or  to  understand  everything,  when 
+there  is  a  denial  of  sadness,  and  when  there  is  an  incapacity  to  admit  to  the 
+uncontrollable  without  being  overwhelmed  –  there  is  a  clear  indication  that  we  are 
+confronted by a fake sense of coherence.  (p. 159) 
+
+ 
+
+2.4.2.8  Measuring SOC 
+
+In order to operationalise SOC, Antonovsky developed a 29-item scale that measures the 
+
+three  constructs  comprising  SOC.    The  SOC  scale  has  been  used  in  14  languages, 
+
+including  Afrikaans  and  Tswana  (two  African  languages),  and  has  been  completed  by 
+
+almost  10,000  people  (Antonovsky,  1998b,  p.  25).    A  short-form  version  of  the  scale, 
+
+comprising 13 of the 29 questions, is also available but will not be reported on here. 
+
+The  scale  demonstrates  good  levels  of  reliability.    Internal  consistency  measures 
+
+(Cronbach’s  Alpha)  range  from  .82  to  .95,  in  26  studies  using  different  languages  and 
+
+cultures  (although  all  Western)  (Antonovsky,  1998b,  p.  25).    Test-retest  reliability 
+
+coefficients  (appropriate  since SOC  is  conceptualised  as  a  stable  construct)  range  from 
+
+.41 to .55 over a two-year interval, from .52 to .86 over a one-year interval, .80 over six 
+
+months, .80 to .97 over five to six weeks, and .91 over two weeks (ibid., p. 26). 
+
+The scale has also demonstrated good validity.  Evidence for content validity includes the 
+
+fact that the items were carefully selected according to facet theory to cover all aspects 
+
+of  the  SOC  construct  (Antonovsky,  1998b,  p.  27).    Various  studies  are  presented  by 
+
+Antonovsky  which  demonstrate  criterion  validity  by  reporting  appropriate  correlations 
+
+with  theoretically  expected  variables  (ibid.,  pp.  28-33).    Known-groups  validity  studies 
+
+demonstrate that “Czech cancer patients, Israeli young adults with cerebral palsy, New 
+
+Zealand  chronic  pain  patients,  and  older  American  patients  in  Department  of  Veterans 
+
+Affairs  (VA)  clinics”  have  the  lowest  SOC  scores,  while  “kibbutz  members,  American 
+
+university  faculty,  and  Israelis  who  have  reached  on-time  retirement  age”  have  the 
+
+highest SOC scores (ibid., p. 34). 
+
+Although  SOC  comprises  three  components  (comprehensibility,  manageability  and 
+
+meaningfulness),  these  components  are  highly  interrelated  and  “can  really  only  be 
+
+separated  for  analytic  purposes.    Theoretically,  an  individual  can  be  high  on  one 
+
+component  and  low  on  others,  but  this  is  inherently  unstable”  (Antonovsky,  1984,  p. 
+
+120).    For  this  reason,  Antonovsky  argues  that  factor  analysis  of  the  SOC  scale  is 
+
+inappropriate  (Antonovsky,  1998b).    No  factor  analytic  studies  of  the  SOC  scale  have 
+
+Resilience Theory: A Literature Review  
+ 
+
+Page 28 
+
+been  published,  but  a  number  of  unpublished  studies  suggest  that  a  single-factor 
+
+solution provides the best explanation for the item variances (ibid., p. 35). 
+
+ 
+
+ 
+
+2.4.3 
+
+STUDIES OF SOC 
+
+SOC,  as  with  many  of  the  constructs  that  have  been  developed  regarding  individual 
+
+resilience, was developed primarily to explain health.  Many studies have thus used SOC 
+
+as the independent variable and various measures of physical health as the dependent 
+
+variable.    Most  studies,  however,  have  introduced  a  broader  range  of  dependent 
+
+variables measuring strength or health more holistically defined, and have even moved 
+
+out  of  the  medical/health  field  completely.    More  recent  thinking  has  also  led  to  the 
+
+conception of SOC at family level.  Although this will be more fully discussed later, such 
+
+studies are included here for the sake of completeness. 
+
+2.4.3.1 
+
+Health Narrowly Defined 
+
+Health.  In a small (N=74) prospective study, SOC was effective in predicting the health 
+
+status of a group of employees one year into the future, accounting for 22% to 32% of 
+
+the  variance  in  illness  (Fiorentino  &  Pomazal,  1998,  p.  98).    However,  when  various 
+
+other variables were entered into the multiple regression analyses (eg various resistance 
+
+resources, health practices and stress), SOC did not enter any of the equations. 
+
+Survival of the Chronically Ill.  An initial study (Time I) was conducted with 377 men 
+
+who  were  over  55  years  and  who  had  at  least  one  chronic  condition  (Coe,  Romeis,  & 
+
+Hall, 1998).  Significant correlations were found between SOC and the various measures 
+
+of  health  status  (including  perceived  health  status,  functional  health  status,  nutritional 
+
+status, mental health, etc) (ibid., p. 267).  Five years later (Time II), 199 of the original 
+
+sample  were  again  interviewed.    SOC  (at  Time  I)  was  significantly  correlated  with  the 
+
+various measures of health status (at Time II), indicating the predictive validity of SOC 
+
+regarding  health  (ibid.,  p.  270).    The  Time  I  profile  of  the  199  men  who  were 
+
+interviewed at Time II was compared with the Time I profile of the 90 men who had died 
+
+in  the  interim.    SOC  was  not  found  to  predict  survival  (ibid.,  p.  271);  having  better 
+
+functional  health  status  and living with  one’s spouse  and  children  at  Time  I  were  most 
+
+effective  at  predicting  survival  at  Time  II  (ibid.).    The  researchers  conclude  that  while 
+
+Resilience Theory: A Literature Review  
+ 
+
+Page 29 
+
+SOC does not directly influence survival, it may indirectly influence survival through its 
+
+direct predictive effect on health status. 
+
+Cancer  Outcome.    A  study  of  38  cancer  patients  investigated  the  effect  of  SOC  and 
+
+mental  imagery  on  the  immune  system  and  cancer  outcome  (Post-White,  1998).  
+
+Participants were randomly divided into experimental (n=22) and control (n=16) groups, 
+
+the former receiving training in mental imagery.  SOC scores did not differ between the 
+
+two groups and over time (ibid., p. 283), although among the experimental group SOC 
+
+scores correlated with various beliefs of improved health (ibid., p. 284).  Baseline SOC 
+
+also predicted an actual improvement in the immune system over time (ibid.).  Baseline 
+
+SOC  predicted  increased  quality  of  life  and  increased  hope  over  time  (ibid.,  p.  285).  
+
+Baseline  SOC  did  not,  however,  predict  actual  disease  state;  to  the  contrary,  greater 
+
+baseline  disease  state  predicted  lower  SOC  scores  (ibid.,  p.  287).    The  researcher 
+
+concluded that “even though SOC did not directly influence disease state, a strong SOC 
+
+did result in better quality of life and a more hopeful state” (ibid.). 
+
+Immune System.  Another study (n=59, American women over 60 years) investigating 
+
+the effects of SOC on the immune system yielded contradictory results (Milanesi et al., 
+
+1998).    SOC  correlated  with  the  various  measures  of  self-reported  health,  did  not 
+
+correlate with cortisal levels (a physiological measure of stress) and correlated with only 
+
+one of several measures of the immune system.  The authors (ibid.) conclude: 
+
+That  no  significant  negative  correlations  appeared  between  the  summated  SOC 
+scores and cortisal raises the possibility that perceived coping with perceived stress 
+constitutes  the  major  operating  factor  in  the  sense  of  coherence  and  that  these 
+perceived  experiences  do  not  cover  all  the  actual  stress  and  stress  reduction 
+processes operating at the physiological level.  (p. 304) 
+
+ 
+
+2.4.3.2 
+
+Health More Broadly Defined 
+
+Mental Health.  In  the  longitudinal  Lundby  study,  148  participants  completed  the  29-
+
+item  SOC  scale.    Cronbach’s  Alpha  was  .89  (Cederblad  et  al.,  1994,  p.  4).    The  scale 
+
+correlated at .44 with the Locus of Control (LOC) scale (being in control of one’s life) and 
+
+at  .59  with  the  Mastery  scale  (being  the  master  of  one’s  fate)  (ibid.).    The  moderate 
+
+correlations  indicate  that  the  three  constructs  are  related  but  not  identical.    The  SOC 
+
+scale did, however, correlate highly with a number of other measures: A correlation of 
+
+.76  was  found  with  the  Quality  of  Life  (QOL)  Scale  which  measures  satisfaction  with 
+
+various  areas  of  life,  and  a  correlation  of  -.70  was  found  with  the  Symptom  Checklist 
+
+(SCL-90) which measures expressions of psychosomatic and emotional distress (Dahlin 
+Page 30 
+Resilience Theory: A Literature Review  
+ 
+
+et al., 1990, p. 231).  This study found that the more salutogenic factors present during 
+
+childhood (eg positive self-esteem, successful coping, trusting relationships, intellectual 
+
+capacity) the better the adult’s mental health and quality of life (Cederblad et al., 1994, 
+
+p. 8).  “Of the nine personal dimensions [including SOC, LOC, mastery, intelligence and 
+
+ways of coping] entered into the multiple regression analyses, the SOC contributed most 
+
+to  the  explained  variance  in  health  measures  [including  QOL,  SCL-90,  the  Health-
+
+Sickness  Rating  Scale  and  rated  health]”  (Cederblad  &  Hansson,  1996,  p.  198).    The 
+
+researchers  propose  a  model  in  which  the  various  salutogenic  factors  contribute  to  the 
+
+development of high SOC which in turn contributes to better mental health (Cederblad et 
+
+al., 1994, p. 10). 
+
+Family  Illness.    A  study  of  78  families  in  which  one  adult  had  a  “serious  illness” 
+
+investigated the relationship between a family’s sense of coherence and family quality of 
+
+life in the face of illness (Anderson, 1998).  A multiple regression analysis indicated that 
+
+57.6%  of  family  quality  of  life  was  accounted  for  by  the  family’s  sense  of  coherence, 
+
+“illness stress, family system balance, length of family relationship, patient full time job 
+
+status and family income”, with family sense of coherence being the “largest predictor” 
+
+(ibid.,  p.  179).    The  researcher  concludes  that  family  sense  of  coherence  was  “an 
+
+important  mediator  in  the  impact  of  illness  stress  on  the  family,  reducing  the  direct 
+
+influence of the illness stress on family quality of life by half” (ibid., p. 182). 
+
+Cystic  Fibrosis.    A  study  of  123  adolescents  with  Cystic  Fibrosis  investigated  the 
+
+various  factors  (including  SOC)  that  contribute  to  self-care,  defined  as  “the  practice  of 
+
+activities  that  individuals  initiate  and  perform  on  their  own  behalf  in  maintaining  life, 
+
+health, and well-being” (Baker, 1998, p. 146).  SOC was found to correlate significantly 
+
+(p<.001)  with  the  various  ‘power  components’  which  which  enable  specific  health-
+
+promoting  practices,  viz.  eg  “ego  strength,  valuing  of  health,  health  knowledge  and 
+
+decision-making  capability,  attention  to  health,  energy,  and  the  ability  to  talk  about 
+
+one’s  feelings”  (ibid.,p.  164).    SOC  also  correlated  significantly  (r=.76,  p<.001)  with 
+
+self-care  (ibid.,p.  165),  and  also  was  a  significant  predictor  of  self-care  in  the  multiple 
+
+regression  analyses.      The  researcher  concludes  that  “having  a  sense  of  coherence  is 
+
+very important to the self-care of adolescents with cystic fibrosis” (ibid.,p. 167). 
+
+Single Parents of Disabled Children.  A study of 152 single mothers who had children 
+
+with a variety of developmental disabilities sought to understand what factors help such 
+
+mothers cope (Gottlieb, 1998).  Results indicated that mothers with higher SOC scores 
+
+tended to report fewer child behavioural problems, fewer recent and potentially stressful 
+
+family  experiences,  greater  family  cohesion  and  adaptability,  larger  social  support 
+
+Resilience Theory: A Literature Review  
+ 
+
+Page 31 
+
+networks,  greater  parenting  satisfaction,  less  financial  concern,  less  concern  about 
+
+meeting  their  disabled  child’s  needs,  less  depression,  fewer  health  problems,  greater 
+
+well-being  and  less  parenting  stress  (ibid.).    SOC  was  not  however  related  to  the 
+
+severity of the child’s disability nor the number of disabilities.  The researcher concludes 
+
+that  SOC  is  an  important  variable  in  the  way  single  mothers  cope  with  the  stress  of 
+
+raising a disabled child. 
+
+Successful Aging.  A study of 199 American men aged 55 years and older investigated 
+
+the  role  of  SOC  in  ‘successful  aging’,  measured  as  a  composite  of  psychological,  social 
+
+and  physical  well-being  or  health  (Brooks,  1998).    SOC  was  found  to  correlate 
+
+significantly with the various measures of successful aging, with a correlation of r=-.50 
+
+with physical health (ibid., p. 235).  Even when the correlations were controlled for age, 
+
+income,  education,  occupation  and  past  health,  the  correlations  (r=.38  with  life 
+
+satisfaction,  r=.26  with  social  health  and  r=.-46  with  physical  health)  remained 
+
+significant at p<.01 (ibid., p. 236).  The researcher concludes that SOC is a significant 
+
+factor in predicting successful aging. 
+
+ 
+
+2.4.3.3 
+
+Health Very Broadly Defined 
+
+Coping  with  Recent  Life  Events.    A  study  in  Israel  investigated  the  importance  of 
+
+personal  resources  (specifically  SOC)  and  collective  resources  (belonging  to  a  religious 
+
+kibbutz rather than a nonreligious kibbutz suggested more collective resources) in coping 
+
+(defined  as  maintaining  psychological  well-being,  physical  well-being  and  functional 
+
+status) with recent life events (RLE) (Anson, Carmel, Levenson, Bonneh, & Maoz, 1993).  
+
+Two hundred and thirty people participated in the study.  The personal resource of SOC 
+
+was  much  stronger  in  accounting  for  health  in  the  face  of  RLE  than  either  collective 
+
+resources  or  personal  and  collective  resources  combined.    The  study  did  demonstrate, 
+
+however,  that  “collective  resources  (belonging  to  a  religious  community)  somewhat 
+
+foster  the  development  of  personal  resources  (SOC)”  (Anson  et  al.,  1993,  p.  164).  
+
+Although  the  study  found  a  negative  correlation  between  RLE  and  SOC,  it  was  unclear 
+
+whether  people  with  stronger  SOC  avoided  RLE  or  whether  RLE  tended  to  erode  a 
+
+person’s SOC. 
+
+Coping  with  Job  Demands.    A  small  study  of  20  public  health  nurses  in  Hong  Kong, 
+
+investigated  the  importance  of  SOC  for  the  “perceptions  of  task  characteristics  and  for 
+
+stress perceptions during interruptions” (Shiu, 1998, p. 273).  The study’s methodology 
+
+involved the nurses wearing a watch that randomly signalled them six times per day for 
+Page 32 
+Resilience Theory: A Literature Review  
+ 
+
+seven  days.    Participants  responded  to  80%  of  the  signals,  which  prompted  them  to 
+
+complete a dairy concerning task characteristics, work and family role juggling and the 
+
+effects of these on their mood states.  The results indicated that nurses “with high SOC 
+
+had a greater sense of emotional well-being in the face of occupational stress and work-
+
+family  juggling,  and  were  more  likely  to  perceive  tasks as  progressing  toward the  goal 
+
+and  to  be  within  control”  (ibid.,  p.  278).      The  researcher  concludes  that  SOC  assists 
+
+nurses in coping with the juggling of work and family responsibilities and in coping with 
+
+occupational stressors.  
+
+Job Performance.  In a small retrospective study (sample size not reported), a sample 
+
+of  workers  with  lower  back  pain  was  divided  “into  two  groups  based  solely  on  the 
+
+amount of time lost due to injury”.  Both groups completed the SOC scale.  The “results 
+
+show that the two groups were significantly different in their sense of coherence scores, 
+
+particularly  with  respect  to  the  comprehension  component”  (Association  of  Ontario 
+
+Health Centres, 1995, p. 2).  Although the scientific quality of this study is questionable, 
+
+it suggests that the job performance (attendance) of workers who are experiencing a life 
+
+stressor  (back  pain)  may  be  influenced  by  SOC,  indicating  its  potential  value  for 
+
+occupational social work and industrial psychology. 
+
+The  Ability  to  Nurture.    A  small  study  (N=72)  of  homeless  mothers  with  children 
+
+sought  to  examine  the  relationship  between  SOC  and  the  ability  of  mothers  to  nurture 
+
+their  children  under  the  extreme  stress  of  homelessness  (Flick  &  Homan,  1998).  
+
+Correlations  of  SOC  with  the  Family  Environment  Scale  and  mother-child  interaction 
+
+were significant at p<.10 (ibid., p. 116).  SOC correlated significantly (p<.001) with self-
+
+esteem  and  depression  (ibid.,  p.  117).    Mothers’  SOC  correlated  significantly  and 
+
+negatively  with  child  behavioural  problems  (p<.10,  p<.05  and  p<.01  for  the  three 
+
+subscales) (ibid., p. 120).  The researchers conclude that SOC is “an important construct 
+
+in  explaining  family  environment,  mother-child  interaction,  and  child  problems  in  an 
+
+extremely distressed population” and that as such it is likely to predict better treatment 
+
+outcome (ibid., p. 123). 
+
+Salutogenic  Effects  of  an  MBA  Programme.    A  study  investigated  that  salutogenic 
+
+effect of participating in a US based MBA programme (Ryland, Tegarden, & King, 1998).  
+
+The sample (N=338) comprised 57% American and 43% foreign students.  When age is 
+
+controlled  for,  the  more  experience  students  have  had  in  the  MBA  programme,  the 
+
+higher their SOC scores are, suggesting that the MBA experience enhances SOC (ibid., p. 
+
+133).    However,  more  detailed  analysis  indicates  that  only  male  American  students 
+
+experience  an  increase  in  SOC  over  the  course  of  the  MBA  programme  (ibid.,  p.  134).  
+
+Resilience Theory: A Literature Review  
+ 
+
+Page 33 
+
+Male  foreign  students,  who  started  out  with  similar  scores  to  male  American  students, 
+
+experienced  a  decrease  in  SOC  scores  as  a  result  of  the  MBA  (ibid.,  p.  137).    Female 
+
+American  students  had  higher  SOC  scores  than  female  foreign  students,  but  neither 
+
+group experienced any change in SOC as a result of the MBA programme (ibid.). 
+
+Retirement.  A study of 805 married, retired Israeli men and women investigated the 
+
+role of SOC in adjustment to ‘on-time’ retirement (Sagy & Antonovsky, 1998).  Various 
+
+methods of determining the family’s SOC were tested and will be discussed in the section 
+
+on family SOC.  Results were however consistent in demonstrating that a strong family 
+
+SOC  predicted  adaptation  to  retirement.    When  one  family  member  has  a  higher  SOC 
+
+than  the  rest  of  the  family,  that  member  seems  able  to  mobilise  the  family’s  coping 
+
+resources. 
+
+Caring for the Aged.  A study of 126 people caring for chronically ill elderly people (71 
+
+caring for nondemented chronically ill people and 55 caring for chronically ill people who 
+
+were demented) investigated the role of SOC in enabling the caregivers to cope with the 
+
+demands of giving care (Wagenfeld, Baro, Gallagher, & Haepers, 1998).  The SOC of the 
+
+two  groups  of  caregivers  was  the  same,  despite  the  demented  patients  having  greater 
+
+levels of disability than the nondemented patients (ibid., p. 256).  SOC was found to be 
+
+“protective against role overload” for all caregivers, but most especially for caregivers of 
+
+demented patients (ibid., p. 259).  The researchers propose a “threshold effect” in which 
+
+“the  SOC  seems  to  be  more  protective  in  situations  of  greater  morbidity”  (ibid.).  
+
+Caregivers with stronger SOC tend to utilize healthier coping responses: “redefining the 
+
+meaning  of  the  situation,  selecting  realistic  coping  strategies  and  avoiding  potentially 
+
+maladaptive  or  unhealthy  behaviors”  (ibid).    The  researchers  conclude  that  SOC  is  an 
+
+important  factor  in  enabling  caregivers  to  cope  with  the  demands  of  caregiving, 
+
+particularly when caring for high-stress patients. 
+
+ 
+
+2.4.4 
+
+A CRITIQUE OF SENSE OF COHERENCE 
+
+I have been unable to locate any published critiques of the Sense of Coherence.  This is 
+
+surprising  given  the  widespread  use  of  the  construct  in  various  disciplines.    Perhaps  a 
+
+primary  criticism  from  social  work  may  be  the  abstract  nature  of  SOC  that  makes  it 
+
+largely  inaccessible  to  clinical  intervention.    As  a  fundamental  paradigm  or  outlook  on 
+
+life,  SOC  is  deeply  engrained  in  the  psyche  or  personality  of  people.    It  cannot  be 
+
+affected  directly,  but  only  indirectly  through  generating  certain  life  experiences,  which 
+
+Resilience Theory: A Literature Review  
+ 
+
+Page 34 
+
+themselves  can  only  be  utilized  in  the  presence  of  resistance  resources.    In  effect,  all 
+
+clinical work needs to promote the development of resistance resources, and hope that 
+
+SOC will follow suit. 
+
+The clinical utility of SOC (and the GRRs) is largely absent from the literature on SOC.  
+
+Researchers  seem  content  to  demonstrate  the  role  of  SOC  in  one  or  other  form  of 
+
+resilience,  but  have  not  made  significant  progress  in  addressing  the  practice  utility  of 
+
+SOC.  Since there are no practice guidelines detailing how to develop SOC, there are also 
+
+no evaluation studies addressing the impact of certain interventions on the evolvement 
+
+of SOC.  The study on cancer outcome reported above (Post-White, 1998), for example, 
+
+addresses  the  change  (or  lack  of  change)  in  SOC  scores  over  the  course  of  an 
+
+intervention, but the intervention was not specifically designed to change SOC and thus 
+
+contributes little to the clinical field. 
+
+It  appears,  therefore,  that  SOC  is  of  theoretical  and  research  interest,  but  has  few 
+
+clinical or preventive applications at present. 
+
+ 
+
+2.5  THRIVING 
+
+In  1998,  the  Journal  of  Social  Issues  (Ickovics  &  Park,  1998b)  brought  out  a  special 
+
+issue entitled “Thriving: Broadening the paradigm beyond illness to health” in which they 
+
+made a number of arguments which resemble those of salutogenesis and resilience.  The 
+
+notion  of  thriving  goes  somewhat  further  than  these  constructs,  however,  by  arguing 
+
+that  the  stressor  may  in  fact  enhance  the  functioning  of  the  person.    Thriving  is  here 
+
+defined as (Ickovics & Park, 1998a): 
+
+The  effective  mobilization  of  individual  and  social  resources  in  response  to  risk  or 
+threat,  leading  to  positive  mental  or  physical  outcomes  and/or  positive  social 
+outcomes.    We  suggest  that  thriving  represents  something  more  than  a  return  to 
+equilibrium  (ie  homeostasis)  following  a  challenge  …    We  propose  a  “value-added” 
+model,  whereby  an  individual  or  community  may  go  beyond  survival  and  recovery 
+from an illness or a stressor to thrive.  (pp. 237-238) 
+
+The notion of thriving prompts the following kinds of questions (Ickovics & Park, 1998a, 
+
+p. 238): 
+
+(cid:153) “What  characteristics  distinguish  the  individuals  who  thrive  following  a  trauma  or 
+
+stressor from those who do not? 
+
+Resilience Theory: A Literature Review  
+ 
+
+Page 35 
+
+(cid:153) “How do communities heal and thrive following severe social challenges that result in 
+
+extreme divisions among citizens of different racial and ethnic groups? 
+
+(cid:153) “Can resources be distributed to or developed in individuals across the developmental 
+
+life cycle and across social and cultural contexts to promote the ability to thrive? 
+
+(cid:153) “How  can  knowledge  about  the  factors  that  promote  thriving  be  used  to  promote 
+
+public health and inform public policy? 
+
+(cid:153) “How does thriving relate (or not) to other concepts in psychology and sociology, and 
+
+can it provide an inclusive framework for guiding further study?” 
+
+The  distinction  between  resilience  and  thriving  is  well  illustrated  in  Figure  2.2  (Carver, 
+
+1998,  p.  246),  which  posits  four  possible  responses  to  an  adverse  event,  all  of  which 
+
+assume an initial deterioration of functioning (a ‘downturn’): 
+
+(cid:153) Firstly, the individual’s functioning may continue to deteriorate below the initial level 
+
+of deterioration brought about in the midst of the crisis of the adverse event.  Here 
+
+the individual succumbs to the event. 
+
+(cid:153) Secondly, the individual’s functioning may improve somewhat after the initial crisis, 
+
+but  not  to  the  level  it  was  before  the  adverse  event  –  “the  person  survives  but  is 
+
+diminished or impaired in some respect” (Carver, 1998, p. 246). 
+
+(cid:153) Thirdly,  the  person  bounces  back  to  the  level  of  functioning  enjoyed  before  the 
+
+adverse event, which can be called resilience or recovery. 
+
+(cid:153) Fourthly, “the person may not merely return to the previous level of functioning, but 
+
+may surpass it in some manner” (Carver, 1998, p. 246), something the author calls 
+
+thriving. 
+
+Resilience was previously defined as the ability of people to bounce back after exposure 
+
+to  some  or  other  crisis,  a  “homeostatic  return  to  a  prior  condition”  (Carver,  1998,  p. 
+
+247).    Resilience  literature  does  not  refer  to  the  concept  of  thriving  conceptualised  as 
+
+“better-off-afterward” (ibid.).  Thriving by contrast refers to the acquisition of new skills 
+
+and  knowledge  (learning  about  themselves,  learning  new  coping  skills,  etc),  of  new 
+
+confidence or a sense of mastery, and enhanced interpersonal relationships (ibid.). 
+
+Carver  continues  to  unpack  the  notion  of  resilience  and  thriving  by  exploring  three 
+
+processes by which people recover from or thrive from adversity, as illustrated in Figures 
+
+2.3 to 2.5 (adapted from Carver, 1998, p. 249). 
+Resilience Theory: A Literature Review  
+ 
+
+Page 36 
+
+Figure2.2ResponsestoAdversity:TheDomainofPossibilities
+
+Adverse
+Event
+
+Thriving
+
+Resilience(recovery)
+
+Survivalwithimpairment
+
+Succumbing
+
+(Carver,1998,p.246)
+
+Time
+
+(AdaptedfromCarver,1998,p.249)
+
+Adverse
+Event
+
+Adverse
+Event
+
+Recovery
+
+TimeI
+
+TimeII
+
+(AdaptedfromCarver,1998,p.249)
+
+Time
+
+(AdaptedfromCarver,1998,p.249)
+
+In  the  first  process  (Figure  2.3),  the  individual  becomes  desensitised  to  the  adverse 
+
+event through the exposure to it.  The downturn experienced at Time II is less than at 
+
+Time I, because the individual has been ‘inoculated’ against that stress to some degree.  
+
+The ‘inoculation’ does not enhance the individual’s functioning, but reduces the severity 
+
+of the downturn next time the adversity is encountered.  Eventually it is possible that the 
+
+individual  is  so  desensitised  that  the  adversity  has  no  noticeable  impact  at  all.    The 
+
+overall level of functioning has still not improved above baseline, however, making this 
+
+an example of resilience and not thriving. 
+
+In the second process (Figure 2.4), the downturn experienced at each exposure to the 
+
+adverse event is equally disruptive, but the recovery or  ‘bounce-back’ time  is reduced.  
+
+The person learns to recover more efficiently from the adversity – “they’re hit as hard, 
+
+but they bounce back faster” (Carver, 1998, p. 249).  As with the previous process, the 
+
+baseline functioning does not improve making this also an example of resilience and not 
+
+of thriving. 
+
+In the third process (Figure 2.5), which is extrapolated from Figure 2.2, the individual’s 
+
+functioning  after  the  exposure  to  the  adverse  event  at  Time  I  is  raised  above  initial 
+
+baseline.  When the adverse even is experienced again at Time II, even if the downturn 
+
+is  equally  disruptive,  the  baseline  has  already  been  raised  and  the  event  can  be  used 
+
+again to enhance the individual’s functioning even more.  In this process the functioning 
+
+or  well-being  of  the  individual  is  enhanced  by  the  adversity,  meeting  the  criteria  for 
+
+thriving. 
+
+Thriving thus conceptualised is a transformation, involving a “fundamental cognitive shift 
+
+in response to a challenge” (O'Leary, 1998, p. 430).  Transformation requires an event 
+
+of great adversity (ibid.): 
+
+For such a transformation to occur, the challenge must be profound, an event such 
+as facing a fatal illness, a severe traumatic accident or victimization, a great loss, or 
+an  existential  crisis  –  events  that  shake  the  foundation  of  one’s  life,  calling  into 
+questions  one’s  sense  of  purpose,  meaning  or  identity.    These  events  are  at  the 
+extreme because they are the ones that provide the greatest opportunity for a heroic 
+response. (p. 430) 
+
+Thriving  and  transformation  require  not  only  a  profound  challenge  or  adverse  event; 
+
+they  also  require  an  individual  with  certain  qualities  who  will  be  able  to  utilize  the 
+
+challenge for thriving.  The question then becomes, what are the qualities of people who, 
+
+when  faced  with  adversity  which  should  result  in  nothing  more  than  recovery,  thrive?  
+
+The answer to this question is similar to the question of what makes children resilient (as 
+
+discussed previously), viz individual resources such as hardiness, coping and a sense of 
+Page 39 
+
+Resilience Theory: A Literature Review  
+ 
+
+coherence;  cognitive  resources  such  as  accurate  threat  appraisal,  self-efficacy  and 
+
+perceived personal risk; the ability to attribute and mould the meaning attached to life 
+
+events; social support systems; and social processes or rituals which facilitate transitions 
+
+in life (O'Leary, 1998). 
+
+ 
+
+2.6  HARDINESS 
+
+2.6.1 
+
+THE HARDY PERSONALITY 
+
+A  great  deal  of  research  conducted  during  the  1960s  and  1970s  demonstrated  that 
+
+“stressful  life  events  precipitate  somatic  and  psychological  disease”  (Kobasa,  1979,  p. 
+
+1).    Important  research  in  this  regard  was  done  by  Rahe,  who  found  that  “Navy 
+
+personnel who begin a cruise with high stress scores suffer more illness episodes during 
+
+the  months  at  sea  than  do  sailors  who  start  out  with  low  stress  scores”  (ibid.).    The 
+
+Schedule  of  Recent  Life  Events,  which  measures  the  build  up  of  recent  stressful  life 
+
+events,  was  published  by  Holmes  and  Rahe  in  1967  and  is  one  of  the  most  frequently 
+
+cited scales used to measure stress in the papers surveyed in this document. 
+
+Much  of  the  research  that  emerged  as  a  result  of  the  Schedule  of  Recent  Life  Events 
+
+(and  other  similar  scales)  demonstrated  a  consistently  significant  but  moderate 
+
+relationship  between  stress  and  illness.    “Although  correlations  range  from  .20  to  .78, 
+
+the  majority  fall  below  .30,  and  in  Rahe’s  naval  data,  the  correlations  are  consistently 
+
+around  .12”  (Kobasa,  1979,  p.  2).    This  research  demonstrated  the  link  between 
+
+psychosocial phenomena and physical well-being (Kobasa, 1982): 
+
+By  demonstrating  that  the  occurrence  of  life  events  that  cause  change  and 
+readjustment (eg job transfer, death of parent, marriage) increases the likelihood of 
+one’s falling sick, Holmes, Rahe, and their colleagues forced our conceptualization of 
+disease  beyond  physiological  and  biochemical  processes  to  psychological  and 
+sociological processes.  (p. 3) 
+
+In  light  of  these  findings,  some  researchers  began  questioning  the  variability  of  stress 
+
+and  illness  scores,  and  the  relatively  moderate  correlation  between  them.    “One  likely 
+
+explanation  for  these  data  is  the  presence  of  subjects  with  high  stress  scores  who  are 
+
+not  getting  sick”  (Kobasa,  1979,  p.  2).    As  was  noted  during  the  discussion  on 
+
+salutogenesis,  researchers  who  had  adopted  the  pathogenic  paradigm  neglected  to 
+
+investigate  the  reasons  for  these  findings.    Those  who  were  more  salutogenically 
+
+oriented did, however, question such findings.  Kobasa was one such researcher. 
+
+Resilience Theory: A Literature Review  
+ 
+
+Page 40 
+
+In  order  to  investigate  this,  Kobasa  surveyed  670  middle  and  upper  executives,  and 
+
+found a correlation of .24 (p<.025) between total stress and total illness scores (Kobasa, 
+
+1979,  p.  6).    Using  test  scores  and  random  sampling,  Kobasa  sampled  two  groups  of 
+
+respondents:  86  high  stress/high  illness  respondents  and  75  high  stress/low  illness 
+
+respondents.  Kobasa’s (1979) analysis of the data revealed the following: 
+
+Discriminant function analysis, run on half of the subjects in each group and cross-
+validated  on  the  remaining  cases,  supported  the  prediction  that  high  stress/low 
+illness executives show, by comparison with high stress/high illness executives, more 
+hardiness, that is, have a stronger commitment to self, an attitude of vigorousness 
+toward the environment, a sense of meaningfulness, and an internal locus of control.  
+(p. 1) 
+
+Kobasa’s  construct  of  hardiness  is  posited  as  mediating  stress  and  illness,  potentially 
+
+reducing the negative effects of stress.  Hardiness itself comprises three subconstructs, 
+
+viz commitment, control and challenge: 
+
+(cid:153) Commitment as opposed to alienation (Kobasa, Maddi, & Courington, 1981, p. 369).  
+
+“Among persons under stress, those who feel committed to the various areas of their 
+
+lives  will  remain  healthier  than  those  who  are  alienated”  (Kobasa,  1979,  p.  4).  
+
+Commitment  is  firstly  the  valuing  of  one’s  life,  one’s  self,  one’s  relationships,  and 
+
+secondly the investment of oneself in these valued dimensions of life (Kobasa, 1982).  
+
+Commitment results in  a sense of purpose that can carry a person through difficult 
+
+turbulent  times.    Commitment  “is  based  in  a  sense  of  community  –  what 
+
+existentialists call being-with-others” (ibid., p. 7). 
+
+(cid:153) Control  as  opposed  to  powerlessness  (Kobasa  et  al.,  1981,  p.  369).    “Among 
+
+persons under stress, those who have a greater sense of control over what occurs in 
+
+their lives will remain healthier than those who feel powerless in the face of external 
+
+forces” (Kobasa, 1979, p. 3).  Control involves acting ‘as if’ one has control over what 
+
+is  happening  around  one.    It  entails  the  belief  (and  consequent  actions)  that  life 
+
+events are in part a result of one’s own actions and attitudes, and thus amenable to 
+
+change.    People  with  control  “can  interpret  and  incorporate  various  sorts  of  events 
+
+into an ongoing life plan and transform these events into something consistent and 
+
+not so jarring to the organism” (Kobasa, 1982, p. 7). 
+
+(cid:153) Challenge  as  opposed  to  threat  (Kobasa  et  al.,  1981,  p.  369).    “Among  persons 
+
+under stress, those who view change as a challenge will remain healthier than those 
+
+who view it as a threat” (Kobasa, 1979, p. 5).  “Challenge is based on the belief that 
+
+change,  rather  than  stability,  is  the  normative  mode  of  life”  (Kobasa,  1982,  p.  7).  
+
+With this outlook on life, stressful life events are viewed neither with surprise (since 
+Page 41 
+
+Resilience Theory: A Literature Review  
+ 
+
+they are anticipated) nor with dismay (since they are seen as exciting opportunities 
+
+for growth and development). 
+
+Kobasa describes the hardy person as follows (Kobasa et al., 1981): 
+
+Hardy  persons  have  considerable  curiosity  and  tend  to  find  their  experiences 
+interesting  and  meaningful.    Further,  they  believe  they  can  be  influential  through 
+what  they  imagine,  say,  and  do.    At  the  same  time,  they  expect  change  to  be  the 
+norm, and regard it as an important stimulus to development.  These various beliefs 
+and tendencies are very useful in coping with stressful events.  Optimistic cognitive 
+appraisals  are  made;  changes  are  perceived  as  natural  enough,  meaningful,  and 
+even interesting despite their stressfulness, and in that sense are kept in perspective.  
+Also, decisive actions are taken to find out more about the changes, to incorporate 
+them into an ongoing life plan, and to learn from their occurrence whatever may be 
+of value for the future.  In these ways, hardy persons transform stressful events into 
+less stressful forms.  (pp. 368-369) 
+
+People  who  are  low  in  hardiness  are,  by  contrast,  described  as  follows  (Kobasa  et  al., 
+
+1981): 
+
+Persons  low  in  hardiness  tend  to  find  themselves  and  the  environment  boring, 
+meaningless,  and  threatening.    They  feel  powerless  in  the  face  of  overwhelming 
+forces, believing that life is best when it involves no changes.  As such, they have no 
+real  conviction  that  development  is  either  possible  or  important,  and  are  passive  in 
+their interactions with the environment.  When stressful events occur, such persons 
+have little basis for optimistic cognitive appraisal or decisive actions.  Because their 
+personalities  provide  little  or  no  buffer,  the  stressful  events  are  allowed  to  have  a 
+debilitating effect on health. (p. 369) 
+
+Kobasa  and  most  other  researchers  in  the  field  measure  hardiness  with  a  set  of  five 
+
+scales (Kobasa, 1982): 
+
+Those  scales  that  had  proven  [in  the  1979  study]  to  be  the  most  effective  in 
+discriminating  between  high  stress/low  illness  and  high  stress/high  illness  subjects 
+and that were, in interaction with stressful life events scores, the best predictors of 
+illness across the whole executive group were included in the composite.  Alienation 
+from  Self  and  Alienation  from  Work  from  the  Alienation  Test  (Maddi  et  al.,  1979) 
+were selected as negative indicators of commitment.  The dimension of control was 
+also measured negatively through the Internal External Locus of Control scale (Rotter 
+et al., 1962) and the Powerlessness scale of the Alienation Test (Maddi et al., 1979).  
+Finally, challenge was measured negatively by the Security scale of the California Life 
+Goals  Evaluation  Schedule  (Hahn,  1966).    The  intercorrelations  among  the  five 
+chosen scales were found to be significant in the expected direction.  In a principal 
+components  factor  analysis,  a  first  factor  (accounting  for  46.5%  of  the  variance) 
+emerges that is interpretable as hardiness.  To provide a single personality hardiness 
+score  for  each  executive,  z  scores  were  computed  for  the  five  measures.    As  the 
+challenge  dimension  was  indexed  by  only  one  scale  (Security),  its  scores  were 
+doubled.  This weighted security score was added to the other four scores.  (p. 14) 
+
+It is this composite hardiness score that is used in most of the studies cited and is the 
+
+scale typically referred to as the Hardiness Scale. 
+
+Resilience Theory: A Literature Review  
+ 
+
+Page 42 
+
+2.6.2 
+
+HARDINESS AND HEALTH 
+
+One  study  (Kobasa  et  al.,  1981,  p.  376)  found  that  “stressful  life  events  and 
+
+constitutional  predisposition  [measured  by  evaluating  the  respondents’  parents’  illness 
+
+history]  increase  illness,  whereas  personality-based  hardiness  decreases  illness”.    The 
+
+researchers  conclude  that  hardiness  is  a  resistance  resource,  protecting  vulnerable 
+
+people from illness. 
+
+A study of 137 white male managers investigated the relationships between hardiness, 
+
+exercise, stress and illness (Kobasa, Maddi, & Puccetti, 1982b).  Hardiness and exercise 
+
+were  found  to  be  unrelated,  as  expected,  and  each  was  found  independently  to 
+
+contribute to health.  The researchers conclude (ibid.): 
+
+Subjects high in both hardiness and exercise remain more healthy than those high in 
+one  or  the  other  only.    These  additive  effects  are  consistent  with  the  view  that 
+hardiness  buffers  by  transforming  the  events  themselves  so  as  to  decrease  their 
+stressfulness, whereas exercise buffers by decreasing the organismic strain resulting 
+from experiencing stressful events. (p. 391) 
+
+Since the stress-hardiness-illness interaction has often been studied retrospectively, it is 
+
+possible that the state of health under stressful conditions creates hardiness, rather than 
+
+the  other  way  round  (Kobasa,  1982).    As  a  result,  a  number  of  studies  have  been 
+
+conducted prospectively to investigate the direction of causation (eg. Kobasa, Maddi, & 
+
+Kahn, 1982a).  This study examined the stress, illness and hardiness of a group of 259 
+
+white  male  middle  and  upper  level  managers  over  a  two-year  period  (plus  three  years 
+
+retrospective  data).    By  controlling  for  illness  at  Time  I,  the  researchers  were  able  to 
+
+investigate  the  effect  of  hardiness  and  stress  at  Time  I  on  the  development  of  illness 
+
+between Times I and III.  The researchers concluded (Kobasa, 1982): 
+
+Even  when  prior  illness  is  controlled  for,  stressful  life  events  are  linked  with  an 
+increase and hardiness with a decrease in illness reports.  The significant stress and 
+hardiness interaction demonstrates that it is especially crucial for one’s health to be 
+hardy when one is undergoing an intensely stressful time.  (p. 15) 
+
+Another  prospective  study  involved  217  white  male  middle  and  upper  level  managers 
+
+who were assessed on two occasions, separated by two years (Howard, Cunningham, & 
+
+Rechnitzer, 1986).  These researchers used the dependence/independence dimension of 
+
+Cattell’s  Sixteen  Personality  Factor  Questionnaire  as  a  measure  of  hardiness.    The 
+
+“results  indicate  that  for  individuals  classified  as  Type  A1,  changes  in  job  stress  (role 
+
+ambiguity) were significantly related to changes in blood pressure and triglyceride levels 
+
+and that this effect appears to be significantly moderated by the personality dimension 
+
+dependence/independence” (ibid., p. 241). 
+Resilience Theory: A Literature Review  
+ 
+
+Page 43 
+
+A  similar  study  was  conducted  with  140  white  male  middle  and  upper  level  managers 
+
+(Kobasa, Maddi, & Zola, 1983).  The measures of hardiness and Type A were found to 
+
+not  correlate,  indicating  their  independence.    Data  analysis  demonstrated  that  while 
+
+stressful life events lead to illness and hardiness protects health, Type A had no direct 
+
+influence on health status (ibid., p. 47).  The authors concluded (ibid.): 
+
+Persons  who  are  not  only  high  in  Type  A  behavior,  but  simultaneously  low  in 
+hardiness, show the greatest deterioration of general health in the face of mounting 
+stressful  life  events.    If  health  is  to  be  preserved  in  the  encounter  with  stressful 
+events,  it  would  appear  important  that  one’s  driven  concern  for  reaching  extrinsic 
+goals  (high  Type  A  behavior)  be  mitigated  by  an  ability  to  experience  the  intrinsic 
+interest  and  value  of  the  activities  and  tasks  encountered  along  the  way  (high 
+hardiness).  (p. 49) 
+
+ 
+
+2.6.3 
+
+CRITIQUES OF HARDINESS 
+
+Despite  the  apparent  unequivocality  of  the  above  studies,  several  studies  have  found 
+
+conflicting  or  inconsistent  results.    Others  have  levied  various  criticisms  against  the 
+
+construct hardiness and its measurement. 
+
+A study by Schmied and Lawler (1986) of 82 female, mostly white, university secretaries 
+
+found no mediating effects from Type A and hardiness on the stress-illness relationship. 
+
+Type A and hardiness did correlate in the expected directions with stress, and stress did 
+
+correlate  in  the  expected  direction  with  illness,  but  neither  Type  A  nor  hardiness 
+
+correlated with illness (ibid., p. 1221). 
+
+Another  study  (Ganellen  &  Blaney,  1984)  of  83  female  undergraduate  students  found 
+
+that hardiness and social support were so closely interrelated as to be not independent 
+
+and that hardiness contributed little buffering effect to life stress.  
+
+Although an exhaustive review of research into hardiness has not been conducted, it is 
+
+interesting to note that all of the studies cited here which find support for the hardiness 
+
+theories were conducted with white, male, protestant, middle and upper level managers 
+
+in the USA.  In contrast, the two studies that failed to support the hardiness theory were 
+
+conducted  with  female  non-managers.    Perhaps  the  hardiness  construct  is  culturally 
+
+loaded in favour of White Anglo-Saxon Protestant males. 
+
+In  a  critique  of  the  hardiness  concept  and  in  particular  the  measurement  of  hardiness, 
+
+Hull, Van Treuren and Virnelli (1987) highlight the inconsistent measurement procedures 
+
+used, despite the description of the Hardiness Scale provided above.  For instance, in a 
+Page 44 
+Resilience Theory: A Literature Review  
+ 
+
+1982 study Kobasa “measured commitment with the scales of Powerlessness (previously 
+
+identified  [in  the  1979  study]  as  a  measure  of  control)  and  Vegetativeness  (previously 
+
+identified [in 1979] as a measure of challenge)” (ibid., p. 521).  As a second instance, 
+
+the  use  of  z  scores  significantly  complicates  secondary  data  analysis,  since  each  study 
+
+generates a mean hardiness score of zero (ibid.).  The reviewers then state: 
+
+We draw the following conclusions: (a) Hardiness is not a unitary phenomenon, but 
+should  be  treated  as  involving  three  separate  phenomena;  (b)  of  the  three 
+subcomponents  of  hardiness,  only  commitment  and  control  have  adequate 
+psychometric properties and are systematically related to health outcomes; (c) lack 
+of  control  and  lack  of  commitment  have  direct  effects  on  health  because  they  are 
+psychologically  stressful;  and  (d)  if  there  are  buffering  effects  of  commitment  and 
+control,  they  are  in  addition  to  these  direct  effects  and  are  situation  specific.    (p. 
+518) 
+
+A final critique (Strümpfer, 1990) highlights the pathogenic approach to measuring what 
+
+is  intended  to  be  a  salutogenic  construct.    The  concept  of  hardiness  was  intended  to 
+
+explain  why  certain  people  who  are  exposed  to  high  stress  do  not  become  ill  as 
+
+expected, in line with  the salutogenic paradigm.  The cluster of scales used by Kobasa 
+
+and  others  to  measure  the  three  hardiness  constructs  are  all  negative  indicators,  viz 
+
+alienation from self and from work for commitment, need for security for challenge, and 
+
+powerlessness and external locus of control for control.  Strümpfer (1990) concludes: 
+
+To  express  high  levels  of  a  characteristic  in  terms  of  low  scores  on  another  seems 
+dubious  on  both  theoretical  and  psychometric  grounds.    Funk  and  Houston  (1987) 
+pointed  out  that  a  low  score  on,  for  instance,  alienation  may  represent  neutral 
+feelings, and not the presence of feelings opposite to alienation. … The view that the 
+Hardiness  Scale  measures  pathogenic  variables  could  be  supported  by  Funk  and 
+Houston’s suggestion that, on the basis of item contents, the Hardiness Scale may be 
+“better  construed  as  tapping  something  similar  to  general  maladjustment  or 
+psychopathology” (1987, p. 573).  Indeed, these authors found that when emotional 
+maladjustment was controlled statistically, significant correlations between hardiness 
+and  health  reports  dropped  below  significance;  Rhodewalt  and  Zone  (1989) 
+confirmed  this  finding.    In  view  of  these  conceptual,  measurement  and  validity 
+problems, I am inclined to consider the hardiness construct as part of the salutogenic 
+paradigm  but  both  its  operationalization  and  the  supporting  evidence  is  still  very 
+much in the pathogenic framework.  (pp. 271-272) 
+
+ 
+
+2.7  LEARNED RESOURCEFULNESS 
+
+‘Learned  resourcefulness’  (Rosenbaum  &  Ben-Ari,  1985)  emerged  in  the  field  of 
+
+behaviour  modification  and  presented  a  contrast  to  ‘learned  helplessness’.    Learned 
+
+helplessness  studies  were  conducted  to  demonstrate  that  when  people’s  efforts  to 
+
+change  an  uncontrollable  event  are  futile,  they  tend  to  generalise  this  expectancy  to 
+
+Resilience Theory: A Literature Review  
+ 
+
+Page 45 
+
+situations which are, in fact, controllable (ibid.).  Learned helplessness thus accounts for 
+
+people’s  responses  to  controllable  events  after  exposure  to  uncontrollable  events.  
+
+During  such  a  process,  people  learn  to  believe  that  they  are  helpless  to  influence  or 
+
+control external events. 
+
+Self-control  studies,  by  contrast,  focus  on what  happens  when  a  person’s  habitual  and 
+
+effective  behaviour  in  dealing  with  a  controllable  situation,  becomes  ineffective  in  an 
+
+uncontrollable  situation.    “The  self-regulatory  process  is  activated  …  only  when  the 
+
+smooth  flow  of  ongoing  behavior  is  disrupted”  (Rosenbaum  &  Ben-Ari,  1985,  p.  199).  
+
+Self-regulation thus enables a person to continue with goal-directed and self-sustaining 
+
+activities,  even  in  the  absence  of  external  reinforcement  (success).    Training  in  self-
+
+regulation  or 
+
+self-management  assists 
+
+“people 
+
+to 
+
+change 
+
+their  behaviour 
+
+notwithstanding  ongoing  stimulation  that  favours  the  undesirable  habits,  so  that  they 
+
+become less dependent on the environment” (Strümpfer, 1990, p. 273).  It is within the 
+
+context of self-control studies that the construct learned resourcefulness emerged. 
+
+Rosenbaum noted that people differ in their capacity for self-regulation or self-control or 
+
+self-management,  and  introduced  “the  term  learned  resourcefulness  to  describe  an 
+
+acquired  repertoire  of  behaviors  and  skills  (mostly  cognitive)  by  which  a  person  self-
+
+regulates  internal  responses  (such  as  emotions,  cognitions,  or  pain)  that  interfere  with 
+
+the smooth execution of a desired behavior” (Rosenbaum & Ben-Ari, 1985, p. 200). 
+
+Rosenbaum (1988, in Strümpfer, 1990, p. 273) explained the process of self-regulation 
+
+as comprising three phases: 
+
+(cid:153) “Representation,  during  which  the  individual  experiences,  without  any  conscious 
+
+effort,  a  cognitive  and/or  emotional  reaction  to  changes  within  him-/herself  or  the 
+
+environment; 
+
+(cid:153) “Evaluation  of  the  changes,  first,  as  desirable  or  threatening,  then,  if  threat  is 
+
+appraised, evaluation whether anything can be done about it; 
+
+(cid:153) “Action  (or  coping  in  most  other  terminology)  to  minimize  negative  effects  of  the 
+
+internal or external changes.” 
+
+An example may serve to clarify this process.  Assume a social worker has been working 
+
+with couples with communication difficulties for a number of years and has come to learn 
+
+that  certain  clinical  interventions  and  processes  are  habitually  successful.    One  day  a 
+
+couple arrives for counselling, but the usual therapy no longer works.  The social worker 
+
+notes  the  lack  of  success  and  begins  to  feel  frustrated,  angry,  anxious  and  helpless 
+Page 46 
+Resilience Theory: A Literature Review  
+ 
+
+(representation).  The resourceful social worker will, at this point begin to evaluate what 
+
+is going wrong and whether there is anything she can do about it.  She tells herself that 
+
+she  is  a  resourceful,  flexible  and  creative  therapist,  who  is  not  locked  into  only  one 
+
+model  of  intervention.    She  begins  thinking  of  other  approaches  that  may  be  effective 
+
+with  this  couple  (evaluation).    She  shifts  to  adopt  another  model  and  begins 
+
+implementing it (action).  By contrast, the less resourceful social worker succumbs to the 
+
+sense  of  failure,  believes  she  is  useless  and  that  her  repertoire  of  skills  is  insufficient.  
+
+She  then  moves  into  self-protection  and  blames  the  clients,  arguing  that  they  are 
+
+resistant (evaluation).  She confronts them aggressively with their lack of co-operation 
+
+and terminates the counselling (action). 
+
+People who succeed in regulating their internal processes during difficult situations, such 
+
+as the resourceful social worker above, acquire the skill of self-regulation.  Next time a 
+
+difficult situation arises, they are more adept at regulating their internal processes and 
+
+are thus better able to respond effectively to the situation.  In this way, resourcefulness 
+
+is  learned,  hence,  learned  resourcefulness.    Rosenbaum  and  Ben-Ari’s  1985  research 
+
+demonstrated that (Strümpfer, 1990): 
+
+Low  resourceful  persons  judge  themselves  inefficacious  in  coping  with  emotional 
+strains  and  difficult  tasks;  as  a  consequence,  they  tend  to  dwell  more  on  their 
+deficiencies  than  on  the  task.    High  resourceful  persons,  on  the  other  hand,  judge 
+themselves more efficacious in dealing with emotional and task demands and are, as 
+a consequence, more likely to continue with self-regulation.  (p. 273) 
+
+Learned resourcefulness is not a personality trait, but rather a cluster of cognitive skills.  
+
+“Learned resourcefulness is a basic behavioral repertoire (Staats, 1975) that is learned 
+
+from  the  moment  of  birth  and  serves  as  a  basis  for  coping  with  stressful  situations” 
+
+(Rosenbaum & Palmon, 1984, p. 245). 
+
+Rosenbaum developed the Self-Control Schedule (SCS), a 36-item instrument using a 6-
+
+point  scale,  to  measure  learned  resourcefulness.    The  scale  (Rosenbaum  &  Palmon, 
+
+1984): 
+
+Covers the following content areas: (a) use of cognitions and self-instructions to cope 
+with  emotional  and  physiological  responses,  (b)  application  of  problem-solving 
+strategies (eg planning, problem definition, evaluating alternatives, and anticipation 
+of consequences); (c) ability to delay immediate gratification, and (d) a general belief 
+in one’s ability to self-regulate internal events.  (p. 246) 
+
+The  SCS  demonstrates  good  psychometric  properties,  with  alpha  coefficients  ranging 
+
+from  .78  to  .86  in  various  studies,  and  test-retest  reliability  over  four  weeks  of  .96 
+
+(Rosenbaum & Palmon, 1984, p. 246). 
+
+Resilience Theory: A Literature Review  
+ 
+
+Page 47 
+
+Research  comparing  high  resourceful  people  with  low  resourceful  ones  has  yielded 
+
+consistently  positive  results  (summarised  by  Strümpfer,  1990,  pp.  273-274).    High 
+
+resourceful people, compared with low resourceful people: 
+
+(cid:153) “Tolerated  laboratory-induced  pain  longer  and  used  self-control  methods  more 
+
+frequently and more effectively in doing so (Rosenbaum, 1980b); 
+
+(cid:153) “As  migraine  sufferers,  reported  lower  pain  intensity,  focused  less  on  the  sensory 
+
+aspects of their pain, and used prophylactic medication more (Courey, Feuerstein & 
+
+Bush, 1982); 
+
+(cid:153) “As epileptics experiencing low and medium frequencies of seizures (but not for high 
+
+frequencies),  maintained  a  stronger  belief  in  their  control  over  their  seizures  and 
+
+their  health,  were  less  depressed,  coped  better  with  their  disability,  and  used  self-
+
+control  methods  as  part  of  coping  with  the  psychological  consequences  of  seizures 
+
+(Rosenbaum & Palmon, 1984); 
+
+(cid:153) “As  hemodialysis  patients,  complied  more  with  their  fluid-intake  restrictions, 
+
+measured  in  terms  of weight  gain  between  dialysis  sessions  (Rosenbaum  &  Ben-Ari 
+
+Smira, 1986); 
+
+Rosenbaum, 1988); 
+
+(cid:153) “As  diabetics,  were  more  successful  in  controlling  sugar  intake  (Amir,  cited  by 
+
+(cid:153) “After  natural  childbirth,  reported  that  they  had  engaged  more  often  in  breathing-
+
+relaxation exercises, used more self-encouraging statements during delivery, and felt 
+
+more control over the process (Groves, cited by Rosenbaum, 1988); 
+
+(cid:153) “As smokers, were more successful in giving up cigarette smoking on their own (Katz 
+
+& Singh, 1986); 
+
+(cid:153) “Used self-control methods more effectively to cope with seasickness on missile boats 
+
+in  stormy  sea  and  showed  fewer  performance  deficits,  notwithstanding  seasickness 
+
+(Rosenbaum & Rolnick, 1983); 
+
+(cid:153) “As novice parachutists, performed better during jumps and used more coping self-
+
+statements  that  indicated  emotional  self-control  and  task  orientation  (Gal-Or  & 
+
+Tennebaum, cited by Rosenbaum, 1988); 
+
+(cid:153) “In experimentally induced experiences of uncontrollability or failure, reported more 
+
+positive  self-evaluation,  fewer  negative  self-evaluations  and  more  task-oriented 
+Page 48 
+
+Resilience Theory: A Literature Review  
+ 
+
+thoughts  (Rosenbaum  &  Ben-Ari,  1985).”    (summarised  by  Strümpfer,  1990,  pp. 
+
+273-274) 
+
+Another  study  (Simons,  Lustman,  Wetzel  &  Murphy  (in  press),  cited  in  Rosenbaum  & 
+
+Ben-Ari, 1985, p. 200) found that “SCS scores were the single best predictor of success 
+
+in  cognitive  therapy  of  depression,”  irrespective  of  the  degree  of  depression  at 
+
+presentation.    “Cognitive  therapy  probably  helped  the  highly  resourceful  depressed 
+
+subjects in developing and applying skills already in their repertoire.”  
+
+ 
+
+2.8  SELF-EFFICACY 
+
+Like learned resourcefulness, self-efficacy (Bandura, 1982) also emerged within the field 
+
+of behaviour modification.  Bandura argues that many of the constructs covered in this 
+
+section on individual resilience centre on “people’s sense of personal efficacy to produce 
+
+and to regulate events in their lives” (ibid., p. 122).  Perceived self-efficacy thus entails 
+
+“judgements  of  how  well  one  can  execute  courses  of  action  required  to  deal  with 
+
+prospective situations” (ibid.). 
+
+According  to  Bandura  (1982),  people  are  constantly  busy  with  judgements  of  self-
+
+efficacy.  Every action taken is preceded by an unconscious judgement of one’s ability to 
+
+execute the action effectively.  Accurate appraisal of one’s efficacy is important so as to 
+
+avoid  taking  on  tasks  that  are,  in  fact,  outside  of  one’s  ability.    Perceived  self-efficacy 
+
+also influences effort (Bandura, 1982): 
+
+Judgements  of  self-efficacy  also  determine  how  much  effort  people  will  expend  and 
+how  long  they  will  persist  in  the  face  of  obstacles  or  aversive  experiences.    When 
+beset  with  difficulties  people  who  entertain  serious  doubts  about  their  capabilities 
+slacken their efforts or give up altogether, whereas those who have a strong sense of 
+efficacy  exert  greater  effort  to  master  the  challenges.  …  High  perseverance  usually 
+produces high performance attainments.  (p. 123) 
+
+As  with  learned  resourcefulness,  people  with  a  strong  sense  of  efficacy  focus  their 
+
+attention on handling the task and are energised by difficulties, while people who doubt 
+
+their efficacy tend to be consumed by their inadequacies and have little energy to deal 
+
+with  the  task  at  hand  (Bandura,  1982).    Behavioural  research  involving  the  artificial 
+
+elevation of perceived self-efficacy demonstrates that “people successfully execute tasks 
+
+that fall within their enhanced range of perceived self-efficacy, but shun or fail those that 
+
+exceed their perceived coping capabilities” (ibid., p. 126).  Even when they know what to 
+
+Resilience Theory: A Literature Review  
+ 
+
+Page 49 
+
+do,  people  who  lack  self-efficacy  tend  to  perform  ineffectively  in  accordance  with  their 
+
+perceived efficacy (ibid.). 
+
+Bandura argues that judgements of self-efficacy are based on information derived from 
+
+four sources (1982, pp. 126-127): 
+
+(cid:153) Enactive  Attainments.    The  most  influential  source  of  information  is  previous 
+
+success,  since  success  breeds  success.    Likewise,  previous  failure  decreases 
+
+perceived self-efficacy and increases the likelihood of future failure. 
+
+(cid:153) Vicarious  Experiences.    Seeing  other  people,  who  are  judged  to  be  similar  in 
+
+competence to oneself, succeed in tasks, increases one’s own self-efficacy.  Likewise, 
+
+seeing similar others fail in tasks decreases one’s own self-efficacy, through vicarious 
+
+learning. 
+
+(cid:153) Verbal Persuasion.  Attempts by others to verbally persuade a person to believe in 
+
+themselves  have  limited  effect.    Nevertheless,  such  persuasion  may  result  in  the 
+
+person trying harder in the next attempt at a task, increasing the chances of success.  
+
+This  success  then  provides  the  enactive  attainment  that  enhances  self-efficacy, 
+
+increasing the chances of future success. 
+
+(cid:153) Physiological State.  People judge their capability in part on the physiological state 
+
+of arousal.  Excess or aversive arousal informs the individual that failure is imminent 
+
+and  consequently  self-efficacy  decreases  and  the  chances  of  failure  do  in  fact 
+
+increase. 
+
+performance. 
+
+Empirical studies confirm that self-efficacy can be influenced through these four sources 
+
+of  information,  and  that  this  has  a  direct  and  significant  impact  on  performance 
+
+(Bandura, 1982, p. 128).  This is a large part of the value of the construct self-efficacy – 
+
+its  capacity  to  be  influenced  through  intervention  and  the  direct  effect  of  this  on 
+
+Zunz  (1998)  reports  a  study  examining  resilience  factors  which  protect  human  service 
+
+providers  (n=101)  from  burnout.    Respondents  were  largely  female  (69%)  and  social 
+
+workers (62%).  Each of the seven protective factors used in the study (including self-
+
+efficacy)  were  correlated  with  at  least  one  of  the  three  measures  of  burnout  (viz 
+
+emotional  exhaustion,  depersonalisation  and  personal  accomplishment).    Self-efficacy 
+
+was the only resilience factor to emerge in three regression analyses (using the burnout 
+
+measures  as  criterion  variables),  accounting  for  “21%  of  the  variance  in  emotional 
+
+exhaustion,  and  along  with  sense  of  mission,  predicting  32%  of  the  variance  in 
+Page 50 
+Resilience Theory: A Literature Review  
+ 
+
+depersonalization  and  39%  in  personal  accomplishment"  (Zunz,  1998,  p.  50).    The 
+
+researcher concludes that human service agencies should clearly define mastery of and 
+
+effectiveness  in  management  tasks,  thereby  increasing  the  development  of  manager’s 
+
+work-related self-efficacy. 
+
+ 
+
+2.9  LOCUS OF CONTROL 
+
+Locus of control, a construct that has much in common with self-efficacy, emerged in the 
+
+field of social learning theory (Rotter, 1966).  Rotter argues that behaviour is reinforced 
+
+to  the  degree  that  the  individual  perceives  the  consequences  of  the  behaviour  to  be 
+
+contingent  on  (or  controlled  by)  his/her  own  behaviour  rather  than  under  control  of 
+
+other  external  forces.    These  external  forces  could  include  “luck,  chance,  fate,  … 
+
+powerful  others,  or  …  unpredictable”  (ibid.,  p.  1).    When  a  “person  perceives  that  the 
+
+event  is  contingent  upon  his  own  behavior  or  his  own  relatively  permanent 
+
+characteristics,  we  have  termed  this  a  belief  in  internal  control”  (ibid.).    Conversely, 
+
+when a person perceives an event to be contingent on other forces, this person is said to 
+
+have a belief in external control. 
+
+Research indicates that (Rotter, 1966): 
+
+The individual who has a strong belief that he can control his own destiny is likely to 
+(a)  be  more  alert  to  those  aspects  of  the  environment  which  provide  useful 
+information  for  his  future  behavior;  (b)  take  steps  to  improve  his  environmental 
+condition;  (c)  place  greater  value  on  skill  or  achievement  reinforcements  and  be 
+generally  more  concerned  with  his  ability,  particularly  his  failures;  and  (d)  be 
+resistive to subtle attempts to influence him.  (p. 25) 
+
+Rotter  developed  the  Internal-External  (I-E)  scale  to  measure  locus  of  control  (Rotter, 
+
+1966).    The  scale  is  negatively  scored,  so  that  a  high  score  indicates  a  high  external 
+
+locus of control.  “The items deal exclusively with the subjects’ belief about the nature of 
+
+the  world.    That  is,  they  are  concerned  with  the  subjects’  expectations  about  how 
+
+reinforcement is controlled.  Consequently, the test is considered to be a measure of a 
+
+generalized  expectancy”  (ibid.,  p.  10).    Rotter  reports  internal  consistency  scores  from 
+
+.52 to .79 and test-retest reliability scores (over 1-2 months) from .49 to .83 (ibid., p. 
+
+13). 
+
+Kobasa,  who  used  the  I-E  scale  as  a  measure  of  her  ‘control’  construct  (1981),  found 
+
+that high stress/high illness executives had a greater external locus of control than high 
+
+stress/low illness executives (t = 2.03, p<.05) (1979, p. 7).  Another study by Johnson 
+
+Resilience Theory: A Literature Review  
+ 
+
+Page 51 
+
+and Sarason (1978, cited in Kobasa, 1982, p. 13) found that college “students believing 
+
+in  an  internal  locus  of  control  showed  a  lower  correlation  between  stressful  life  events 
+
+and illness than did subjects who reported an external orientation”. 
+
+A  study  of  50  epileptic  patients  found  a  link  between  locus  of  control  and  learned 
+
+resourcefulness (Rosenbaum & Palmon, 1984).  Results indicate that highly resourceful 
+
+patients had a greater internal locus of control and a greater degree of perceived control 
+
+over  their  seizures  than  low  resourceful  patients,  regardless  of  the  severity  of  the 
+
+seizures (ibid., p. 250). 
+
+The distinction between Rotter’s Locus of Control and Antonovsky’s Sense of Coherence 
+
+was  detailed  previously.    Antonovsky  criticises  Rotter’s  Locus  of  Control  construct  as 
+
+being  culturally  biased  in  favour  of  Western,  Protestant  ethics,  and  asks  “What  would 
+
+someone  with  a  belief  that  God  has  already  determined  his  destiny  score  on  Rotter’s 
+
+scale?” (Antonovsky, 1979, p. 155).  Notwithstanding Antonovsky’s concern, the locus of 
+
+control concept has enjoyed great popularity, and has resulted in the generation of many 
+
+scales (Fischer & Corcoran, 1994b, printed 17 scales measuring various aspects of locus 
+
+of control) and much research on the subject. 
+
+2.10  OTHER RESILIENCE FACTORS 
+
+In  addition  to  these  major  contributions  to  the  field  of  resilience  theory,  a  number  of 
+
+other  writers  have  generated  resilience  factors  that  are  of  value,  viz  potency,  stamina 
+
+ 
+
+ 
+
+and personal causation. 
+
+2.10.1  POTENCY 
+
+The  construct  ‘potency’  was  developed  by  an  Israeli  social  worker,  Ben-Sira,  and  is 
+
+defined as “a person’s enduring confidence in his own capacities as well as confidence in 
+
+and  commitment  to  his/her  social  environment,  which  is  perceived  as  being 
+
+characterized by a basically meaningful and predictable order and by a reliable and just 
+
+distribution  of  rewards”  (Ben-Sira,  1985,  in  Strümpfer,  1990,  p.  272).    Strümpfer 
+
+continues: 
+
+Ben-Sira  viewed  potency  as  a  mechanism  that  prevents  the  tension  which  follows 
+occasional inadequate coping, from turning into a lasting stress.  It is the outcome of 
+Page 52 
+
+Resilience Theory: A Literature Review  
+ 
+
+successful  past  experiences  of  coping  and  hence  comprises  mastery  and  self-
+appreciation; weak potency, on the other hand, results from a history of unsuccessful 
+coping  experiences.    These  same  alternatives  of  experience  contribute  to  either  a 
+view  of  society  as  meaningful  and  ordered,  or  an  orientation  of  anomie,  which  in 
+turn,  are  related  to  either  commitment  to  society  or  alienation.    Similarities  to 
+Antonovsky’s SOC seem quite clear; in fact, Ben-Sira and Antonovsky have had close 
+academic and personal associations.  (p. 272) 
+
+2.10.2  STAMINA 
+
+Strümpfer  (1990) reports two researchers who have used the term ‘stamina’ to refer to 
+
+the concept of resilience.  Thomas (1981, in Strümpfer, 1990, p. 272), who conducted 
+
+longitudinal  research  on  medical  students,  defined  stamina  as  “The  physical  and  moral 
+
+strength to resist or withstand disease, fatigue, or hardship; endurance.”  She compared 
+
+psychological,  social  and  family  factors  that  influenced  the  life  course  of  adults,  and 
+
+concluded, “Human beings are born with different potentialities and susceptibilities which 
+
+life  experiences  may  then  mold  into  a  protective  shield  undergirding  future  health” 
+
+(ibid.). 
+
+Colerick also used the term stamina in her study of patterns of aging.  She asked, “What 
+
+qualities  distinguish  older  persons  who  demonstrate  emotional  resilience  despite  age-
+
+related  losses  and  life  change?”  (Colerick,  1985,  in  Strümpfer,  1990,  p.  272).    She 
+
+referred  to  stamina  as  a  “capacity  for  growth,  personal  insight,  life  perspective, 
+
+likelihood of functional breakdown and general competence” (ibid.). 
+
+ 
+
+ 
+
+2.10.3  PERSONAL CAUSATION 
+
+De  Charms  (1968,  p.  269)  states,  “Man’s  primary  motivational  propensity  is  to  be 
+
+effective in producing changes in his environment.  Man strives to be a causal agent, to 
+
+be  the  primary  locus  of  causation  for,  or  the  origin  of,  his  behavior;  he  strives  for 
+
+personal  causation.”    Personal  causation  is  thus  concerned  with  “being  the  master  of 
+
+one’s fate” or “being an agent of change in the environment” (ibid., pp. 270-271). 
+
+De Charms argues that achieving one’s goals and the satisfaction that results from that 
+
+is  not  sufficient  to  explain  human  behaviour.    The  process  of  achieving  one’s  goals  is 
+
+paramount.  “Attaining a goal through luck, chance, or through the benevolent agency of 
+
+Resilience Theory: A Literature Review  
+ 
+
+Page 53 
+
+a helper is not the same as doing it myself” (De Charms, 1968, p. 271).  The essence of 
+
+personal causation is stated as follows (ibid.): 
+
+A man is not a stone, for he is a direct source of energy; nor is he a machine, for the 
+direction  of  the  behavior  resulting  from  his  energy  comes  entirely  from  within  him.  
+Rather, man is the origin of his behavior. (p. 271) 
+
+De  Charms  extrapolates  from  the  idea  that  people  are  the  origin  of  their  behaviour  to 
+
+state that people are constantly struggling against being constrained by external forces, 
+
+that  is,  against  being  moved  as  a  pawn.    This  distinction  between  ‘Origin’  and  ‘Pawn’ 
+
+parallels the distinction between ‘free’ and ‘forced’.  “An Origin is a person who perceives 
+
+his behavior as determined by his own choosing; a Pawn is a person who perceives his 
+
+behavior  as  determined  by  external  forces  beyond  his  control”  (De  Charms,  1968,  pp. 
+
+273-274).  An individual’s sense of him or herself as Pawn or Origin directly influences 
+
+that  individual’s  behaviour,  regardless  of  any  objective  external  evidence.    The  most 
+
+fundamental  motivational  force  is  an  individual’s  own  sense  of  whether  s/he  is  more 
+
+Pawn or more Origin (ibid., p. 319). 
+
+Although  De  Charms  recognises  the  close  similarity  between  Rotter’s  Internal  Locus  of 
+
+Control  and  his  own  Personal  Causation,  he  argues  that  locus  of  control  is  a  more 
+
+restricted  construct  than  personal  causation  (De  Charms,  1968,  p.  321).    Locus  of 
+
+control,  being  located  within  social  learning  theory,  focuses  its  attention  on  the 
+
+consequences  of  behaviour,  rather  than  on  the  behaviour  itself,  thereby  restricting  its 
+
+De  Charms  addresses  the  notion  of  personal  causation  at  a  philosophical,  existential 
+
+level, and does not pull it through to empirical, practical or clinical utility.  Nor does he 
+
+address how a sense of personal causation comes to develop. As such, its practice value 
+
+utility. 
+
+is limited. 
+
+ 
+
+2.11 
+
+CONCLUSION 
+
+Two  principle  aspects  of  individual  resilience  are  described  in  the  literature  and  have 
+
+been reflected in this chapter: 
+
+(cid:153) Firstly, the dominant pathogenic paradigm has been challenged.  Some researchers, 
+
+theorists and clinicians are questioning the value and reality base of a worldview that 
+
+emphasises  the  development  of  pathology  as  its  central  concern.    They  propose  an 
+
+Resilience Theory: A Literature Review  
+ 
+
+Page 54 
+
+alternative  paradigm,  which  is  most  frequently  termed  salutogenesis,  which 
+
+addresses the origin of health. 
+
+(cid:153) At  the  centre  of  this  paradigm  is  a  generic  question,  viz  “How  is  it,  when  several 
+
+people are exposed to the same stressor, that some of them break down while others 
+
+remain healthy or even thrive?” 
+
+(cid:153) The  inevitable  next  question  leads  to  the  second  aspect  of  individual  resilience 
+
+described  in  this  chapter,  viz  the  factors  that  make  certain  individuals  resilient.  
+
+Numerous factors have been explored in this chapter, including sense of coherence, 
+
+hardiness,  learned  resourcefulness,  self-efficacy,  locus  of  control,  potency,  stamina 
+
+and  personal  causation.    In  addition,  various  factors  that  protect  children  from  the 
+
+adverse effects of childhood risk were also outlined. 
+
+Unfortunately, the literature on individual resilience has two main shortcomings: 
+
+(cid:153) Firstly,  this  literature,  which  dominates  (or  has  dominated)  the  field  of  resilience 
+
+theory,  addresses  only  or  predominantly  intrapsychic  factors  in  resilience.    Many  of 
+
+the key constructs, such as Sense of Coherence, are defined as part of the structure 
+
+of  personality.    Little  attention  is  paid  to  factors  within  the  environment  or  social 
+
+system that promote the resilience of the individual. 
+
+(cid:153) Second,  this  focus  on  intrapsychic  resilience  leads  to  the  second  shortcoming,  viz 
+
+many of the resilience constructs reviewed in this chapter do not translate easily into 
+
+clinical  practice.    Sense  of  Coherence,  for  instance,  which  is  a  widely  cited  and 
+
+researched  resilience  construct,  has  no  clear  clinical  implication  outside  of 
+
+assessment.    A  client  referred  for  psychotherapy  can  be  assessed  for  Sense  of 
+
+Coherence.    Once  a  low  SOC  score  has  been  attained,  the  clinician  can  do  nothing 
+
+with this result other than conclude that the client may struggle to make positive use 
+
+of a therapeutic relationship. 
+
+(cid:153) Other resilience factors, such as learned resourcefulness and locus of control, seem 
+
+to lead more easily to clinical intervention, but even, this is not clear in the literature 
+
+This  shortcoming  is  particularly  disappointing  given  the  basic  salutogenic  question, 
+
+“What  enables  people  to  overcome  adversity?”    The  answer  to  this  question  should 
+
+surely  provide  people  who  lack  resilience  with  some  hope,  some  kind  of  answer  as  to 
+
+how to become more resilient.  A person lacking resilience will not, however, make much 
+
+use  of  the  advice  to  develop  a  sense  of  coherence  or  to  build  their  sense  of  personal 
+
+causation. 
+Resilience Theory: A Literature Review  
+ 
+
+Page 55 
+
+These shortcomings are not to say that the individual resilience constructs do not have 
+
+clinical implications.  Rather, these implications have not been explored and researched.  
+
+Early in this chapter it was noted that researchers have tended to focus on pathogenesis, 
+
+while  clinicians  attended  to  salutogenesis  (Pearlin  &  Schooler,  1982).    It  appears, 
+
+however,  now  that  extensive  research  has  been  done  on  salutogenic  factors,  that 
+
+clinicians need to begin exploring how to develop these factors through clinical and other 
+
+interventions.    In  particular,  preventive  issues  need  to  be  explored  so  that  resilience 
+
+factors can be developed as a matter of course in the general public and not only among 
+
+the small percentage of individuals who have some form of pathology. 
+
+Resilience Theory: A Literature Review  
+ 
+
+Page 56 
+
+
